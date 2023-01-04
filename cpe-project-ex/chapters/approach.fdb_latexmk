@@ -1,0 +1,15 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "approach.xdv" "approach.pdf" "approach" 0 -1
+  "approach.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "approach.pdf"
+  (rewritten before read)
+["xelatex"] 1669492556 "d:/Project/report/cpe-project-ex/chapters/approach.tex" "approach.xdv" "approach" 1669492557 2
+  "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1669461926 24072048 0222b8886e655c30fdc268152586df5f ""
+  "approach.aux" 1669492556 34 3985256e7290058c681f74d7a3565a19 ""
+  "approach.tex" 1669492554 10796 04014d40d26e585c3bb03d28a37a6b2e ""
+  "d:/Project/report/cpe-project-ex/chapters/approach.tex" 1669492554 10796 04014d40d26e585c3bb03d28a37a6b2e ""
+  (generated)
+  "approach.log"
+  "approach.xdv"
+  (rewritten before read)
