@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  4 JAN 2023 15:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  4 JAN 2023 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Project/report/cpe-project-ex/myReport.tex
-(d:/Project/report/cpe-project-ex/myReport.tex
+**d:/Project/report/Facial-authentication-system-for-building-access-using-adaptive-machine-learning-technique/cpe-project-ex/myReport.tex
+(d:/Project/report/Facial-authentication-system-for-building-access-using-adaptive-machine-learning-technique/cpe-project-ex/myReport.tex
 LaTeX2e <2022-11-01>
 L3 programming layer <2022-11-02> (cpecmu.cls
 Document Class: cpecmu 2021/07/27 v0.2.1 Computer Engineering, Chiang Mai University senior project report class
@@ -1660,9 +1660,24 @@ Overfull \hbox (1.85573pt too wide) in paragraph at lines 94--96
 \TU/Laksaman(0)/m/n/12 โปรแกรม ของ โครง งาน นี้ สามารถ ดาวน์โหลด ได้ จาก [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.example.com/ test_[]\TU/TlwgTypist(0)/m/n/12 ทดสอบ[]\TU/Inconsolata(0)/m/n/12 _url$$[][]
  []
 
-) [26
+
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 100--101
+[]\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
+ []
+
+
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 112--113
+[]\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
+ []
+
+[26
 
 ]
+Overfull \hbox (1.72578pt too wide) in paragraph at lines 135--136
+[]\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
+ []
+
+) [27]
 Vita
 File: pic/my_pic.jpg Graphic file (type bmp)
 <pic/my_pic.jpg>
@@ -1671,7 +1686,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
 
-[27
+[28
 
 
 
@@ -1769,15 +1784,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 81016520E430E4832C313E93710BAB4D;16084.
+(rerunfilecheck)             Checksum: C69D25919D4374DCC20A7E1B4F8FFEC6;17630.
  ) 
 Here is how much of TeX's memory you used:
  19850 strings out of 410432
- 379002 string characters out of 2810511
- 950222 words of memory out of 3000000
+ 379275 string characters out of 2810511
+ 951820 words of memory out of 3000000
  40702 multiletter control sequences out of 15000+600000
  473963 words of font info for 141 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,17n,150p,617b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (37 pages, 520108 bytes).
+Output written on myReport.xdv (38 pages, 544316 bytes).

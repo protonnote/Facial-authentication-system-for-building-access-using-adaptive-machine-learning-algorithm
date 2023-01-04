@@ -97,31 +97,69 @@
 \section{คู่มือการติดตั้ง OpenCV บน Raspberry Pi}
 \begin{enumerate}
   \item เปิด Termenal
-  \item พิมพ์คำสั่ง sudo git clone https://github.com/freedomwebtech/raspbianlegacy.git
+  \item พิมพ์คำสั่ง sudo git clone \url{https://github.com/freedomwebtech/raspbianlegacy.git}
   \item พิมพ์คำสั่ง cd raspbianlegacy
   \item พิมพ์คำสั่ง sudo chmod 775 install.sh
   \item พิมพ์คำสั่ง sudo ./install.sh จากนั้นรอจนกว่าจะเสร็จ ใช้เวลาประมาณ 2 ชั่วโมง
   \item เมื่อทำการติดตั้งเสร็จแล้วให้ทดลองใช้คำสั่ง python3
   \item แล้วพิมพ์ import cv2
-  \item แล้วพิมพ์ cv2.\textunderscore\textunderscore version \textunderscore\textunderscore
+  \item แล้วพิมพ์ cv2.\textunderscore\textunderscore version \textunderscore\textunderscore หากติดตั้งสำเร็จจะแสดงเลข version
 \end{enumerate}
 
 \section{คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}
 \begin{enumerate}
   \item เปิด Termenal
-  \item พิมพ์คำสั่ง sudo git clone https://github.com/freedomwebtech/raspbianlegacy.git
+  \item พิมพ์คำสั่ง sudo git clone \url{https://github.com/freedomwebtech/raspbianlegacy.git}
   \item พิมพ์คำสั่ง cd raspbianlegacy
   \item พิมพ์คำสั่ง sudo chmod 775 tensorflow-lite.sh
   \item พิมพ์คำสั่ง sudo ./tensorflow-lite.sh จากนั้นรอจนกว่าจะเสร็จ
-  \item เมื่อทำการติดตั้งเสร็จแล้วให้ทดลองใช้คำสั่ง pip show tensorflow หากติดตั้งสำเร็จจะขึ้นข้อมูลของ tensorflow
+  \item เมื่อทำการติดตั้งเสร็จแล้วให้ทดลองใช้คำสั่ง pip show tensorflow หากติดตั้งสำเร็จจะแสดงข้อมูลของ tensorflow
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}
+\section{คู่มือการติดตั้ง Mediapipe library บน Raspberry Pi}
 \begin{enumerate}
   \item เปิด Termenal
   \item พิมพ์คำสั่ง sudo apt update
   \item พิมพ์คำสั่ง sudo pip3 install mediapipe-rpi4 จากนั้นรอจนกว่าจะเสร็จ
 \end{enumerate}
+
+\section{คู่มือการติดตั้ง Tkinter library บน Raspberry Pi}
+\begin{enumerate}
+  \item เปิด Termenal
+  \item พิมพ์คำสั่ง sudo apt update
+  \item พิมพ์คำสั่ง sudo pip3 install tk จากนั้นรอจนกว่าจะเสร็จ
+\end{enumerate}
+
+\section{คู่มือการติดตั้ง Python บน Windows}
+\begin{enumerate}
+  \item ไปยังเว็บไซต์ \url{https://www.python.org/downloads/} เพื่อดาวน์โหลดตัว setup ของ Python
+  \item เปิดไฟล์ setup
+  \item คลิ๊ก Install Now รอจนติดตั้งเสร็จ จากนั้นสามารถกดปิดหน้าต่างการ setup ได้
+  \item เมื่อติดตั้ง Python เสร็จแล้ว ให้ทดลองตรวจสอบว่า Python นั้นติดตั้งสําเร็จ โดยการเปิด cmd
+  หรือ powershell แล้วใช้คําสั่ง python -V จะแสดง version ของ Python ที่ทําการติดตั้ง
+\end{enumerate}
+
+\section{คู่มือการติดตั้ง Flask framework}
+\begin{enumerate}
+  \item เปิด cmd หรือ powershell หรือ windows terminal
+  \item พิมพ์คำสั่ง pip install Flask รอจนติดตั้งเสร็จ
+\end{enumerate}
+
+\section{คู่มือการติดตั้ง OpenCV บน Windows}
+\begin{enumerate}
+  \item เปิด cmd หรือ powershell หรือ windows terminal
+  \item พิมพ์คำสั่ง pip install opencv-python รอจนติดตั้งเสร็จ
+  \item เมื่อทำการติดตั้งเสร็จแล้วให้ทดลองใช้คำสั่ง python
+  \item แล้วพิมพ์ import cv2
+  \item แล้วพิมพ์ cv2.\textunderscore\textunderscore version \textunderscore\textunderscore หากติดตั้งสำเร็จจะแสดงเลข version
+\end{enumerate}
+
+\section{คู่มือการติดตั้ง Scikit learn บน Windows}
+\begin{enumerate}
+  \item เปิด cmd หรือ powershell หรือ windows terminal
+  \item พิมพ์คำสั่ง pip install scikit-learn รอจนติดตั้งเสร็จ
+\end{enumerate}
+
 
 \section{คู่มือการใช้งานอุปกรณ์ในการตรวจจับใบหน้า}
 
