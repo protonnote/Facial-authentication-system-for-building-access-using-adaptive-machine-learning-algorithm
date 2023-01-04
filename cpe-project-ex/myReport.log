@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  4 JAN 2023 15:23
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  4 JAN 2023 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1656,7 +1656,7 @@ LaTeX Font Info:    Font shape `TU/Inconsolata(0)/b/it' will be
  [24] [25]
 ภาคผนวก ข.
 
-Overfull \hbox (1.85573pt too wide) in paragraph at lines 94--95
+Overfull \hbox (1.85573pt too wide) in paragraph at lines 94--96
 \TU/Laksaman(0)/m/n/12 โปรแกรม ของ โครง งาน นี้ สามารถ ดาวน์โหลด ได้ จาก [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.example.com/ test_[]\TU/TlwgTypist(0)/m/n/12 ทดสอบ[]\TU/Inconsolata(0)/m/n/12 _url$$[][]
  []
 
