@@ -4,28 +4,38 @@
 
 \section{รูปอุปกรณ์ที่ใช้ในการตรวจจับภาพใบหน้าและรับคำสั่งยืนยัน}
 
+\begin{figure}[!ht]
+  \begin{center}
+    \includegraphics[scale=.6]{pic/overall_module.png}
+    \caption[Module]{แสดงอุปกรณ์ตรวจจับใบหน้า แสดงผลและรับผล}
+    \label{fig:module_pi}
+  \end{center}
+\end{figure}
+
+
+
 % Text for a section in the first appendix goes here.
 
 % test ทดสอบฟอนต์ serif ภาษาไทย
 \begin{figure}[!ht]
   \begin{center}
-    \includegraphics[scale=.2]{pic/camera.jpg}
+    \includegraphics[scale=.15]{pic/camera.jpg}
     \caption[camera]{กล้องที่ใช้ในการตรวจจับใบหน้าบุคคล}
     \label{fig:camera_logi}
   \end{center}
 \end{figure}
 
-\begin{figure}[!ht]
-  \begin{center}
-    \includegraphics[scale=.2]{pic/system.jpg}
-    \caption[face detection module]{มอดูลที่ใช้ในการระบุตัวตนด้วยรูปภาพใบหน้าและแสดงผล}
-    \label{fig:face_module}
-  \end{center}
-\end{figure}
+% \begin{figure}[!ht]
+%   \begin{center}
+%     \includegraphics[scale=.1]{pic/system.jpg}
+%     \caption[face detection module]{มอดูลที่ใช้ในการระบุตัวตนด้วยรูปภาพใบหน้าและแสดงผล}
+%     \label{fig:face_module}
+%   \end{center}
+% \end{figure}
 
 \begin{figure}[!ht]
   \begin{center}
-    \includegraphics[scale=.2]{pic/rpi_top.jpg}
+    \includegraphics[scale=.17]{pic/rpi_top.jpg}
     \caption[button]{ปุ่มกดให้คะแนนความถูกต้อง}
     \label{fig:button_module}
   \end{center}
@@ -33,7 +43,7 @@
 
 \begin{figure}[!ht]
   \begin{center}
-    \includegraphics[scale=.2]{pic/rpi_back.jpg}
+    \includegraphics[scale=.17]{pic/rpi_back.jpg}
     \caption[inside module]{แสดงภายในมอดูลการตรวจจับใบหน้าและแสดงผล}
     \label{fig:inside_module}
   \end{center}
@@ -41,18 +51,18 @@
 
 \begin{figure}[!ht]
   \begin{center}
-    \includegraphics[scale=.2]{pic/rpi.jpg}
+    \includegraphics[scale=.17]{pic/rpi.jpg}
     \caption[Raspberry Pi]{แสดงการเชื่อมต่อ Raspberry Pi}
     \label{fig:rpi_module}
   \end{center}
 \end{figure}
 
-
+\newpage
 \section{รูปภาพการแสดงผลบนหน้าจอ}
 
 \begin{figure}[!ht]
     \begin{center}
-      \includegraphics[scale=.4]{pic/main_page.png}
+      \includegraphics[scale=.35]{pic/main_page.png}
       \caption[main page]{แสดงหน้า GUI เมื่อโปรแกรมเริ่มทำงาน}
       \label{fig:main_page}
     \end{center}
@@ -62,7 +72,7 @@
 
 \begin{figure}[!ht]
     \begin{center}
-      \includegraphics[scale=.4]{pic/comfirm_page.png}
+      \includegraphics[scale=.35]{pic/comfirm_page.png}
       \caption[wrong predict]{แสดงหน้า GUI เมื่อผลลัพธ์การระบุตัวตนผิด}
       \label{fig:com_page}
     \end{center}
@@ -70,19 +80,19 @@
 
 
 
-\newpage
 
-\textsf{test ทดสอบฟอนต์ sans serif ภาษาไทย}
 
-\verb+test ทดสอบฟอนต์ teletype ภาษาไทย+
+% \textsf{test ทดสอบฟอนต์ sans serif ภาษาไทย}
 
-\texttt{test ทดสอบฟอนต์ teletype ภาษาไทย}
+% \verb+test ทดสอบฟอนต์ teletype ภาษาไทย+
 
-\textbf{ตัวหนา serif ภาษาไทย \textsf{sans serif ภาษาไทย} \texttt{teletype ภาษาไทย}}
+% \texttt{test ทดสอบฟอนต์ teletype ภาษาไทย}
 
-\textit{ตัวเอียง serif ภาษาไทย \textsf{sans serif ภาษาไทย} \texttt{teletype ภาษาไทย}}
+% \textbf{ตัวหนา serif ภาษาไทย \textsf{sans serif ภาษาไทย} \texttt{teletype ภาษาไทย}}
 
-\textbf{\textit{ตัวหนาเอียง serif ภาษาไทย \textsf{sans serif ภาษาไทย} \texttt{teletype ภาษาไทย}}}
+% \textit{ตัวเอียง serif ภาษาไทย \textsf{sans serif ภาษาไทย} \texttt{teletype ภาษาไทย}}
+
+% \textbf{\textit{ตัวหนาเอียง serif ภาษาไทย \textsf{sans serif ภาษาไทย} \texttt{teletype ภาษาไทย}}}
 
 
 
@@ -92,9 +102,10 @@
 \chapter{\ifenglish Manual\else คู่มือการใช้งานระบบ\fi}
 
 โปรแกรมของโครงงานนี้สามารถดาวน์โหลดได้จาก \url{https://www.example.com/test_ทดสอบ_url} 
-และใช้ระบบปฏิบัติการ Raspberry Pi คือ Raspbian buster
+ใช้ระบบปฏิบัติการของ Raspberry Pi คือ Raspbian buster และใช้ระบบปฏิบัติการของ Windows คือ Windows 10
 
-\section{คู่มือการติดตั้ง OpenCV บน Raspberry Pi}
+\section{คู่มือการติดตั้งโปรแกรมเพื่อตรวจจับใบหน้าบน Raspberry Pi}
+\subsection{คู่มือการติดตั้ง OpenCV บน Raspberry Pi}
 \begin{enumerate}
   \item เปิด Termenal
   \item พิมพ์คำสั่ง sudo git clone \url{https://github.com/freedomwebtech/raspbianlegacy.git}
@@ -106,7 +117,7 @@
   \item แล้วพิมพ์ cv2.\textunderscore\textunderscore version \textunderscore\textunderscore หากติดตั้งสำเร็จจะแสดงเลข version
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}
+\subsection{คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}
 \begin{enumerate}
   \item เปิด Termenal
   \item พิมพ์คำสั่ง sudo git clone \url{https://github.com/freedomwebtech/raspbianlegacy.git}
@@ -116,21 +127,23 @@
   \item เมื่อทำการติดตั้งเสร็จแล้วให้ทดลองใช้คำสั่ง pip show tensorflow หากติดตั้งสำเร็จจะแสดงข้อมูลของ tensorflow
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง Mediapipe library บน Raspberry Pi}
+\subsection{คู่มือการติดตั้ง Mediapipe library บน Raspberry Pi}
 \begin{enumerate}
   \item เปิด Termenal
   \item พิมพ์คำสั่ง sudo apt update
   \item พิมพ์คำสั่ง sudo pip3 install mediapipe-rpi4 จากนั้นรอจนกว่าจะเสร็จ
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง Tkinter library บน Raspberry Pi}
+\subsection{คู่มือการติดตั้ง Tkinter library บน Raspberry Pi}
 \begin{enumerate}
   \item เปิด Termenal
   \item พิมพ์คำสั่ง sudo apt update
   \item พิมพ์คำสั่ง sudo pip3 install tk จากนั้นรอจนกว่าจะเสร็จ
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง Python บน Windows}
+
+\section{คู่มือการติดตั้งโปรแกรมเพื่อระบุตัวตนใบหน้าบน Server}
+\subsection{คู่มือการติดตั้ง Python บน Windows}
 \begin{enumerate}
   \item ไปยังเว็บไซต์ \url{https://www.python.org/downloads/} เพื่อดาวน์โหลดตัว setup ของ Python
   \item เปิดไฟล์ setup
@@ -139,13 +152,13 @@
   หรือ powershell แล้วใช้คําสั่ง python -V จะแสดง version ของ Python ที่ทําการติดตั้ง
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง Flask framework}
+\subsection{คู่มือการติดตั้ง Flask framework}
 \begin{enumerate}
   \item เปิด cmd หรือ powershell หรือ windows terminal
   \item พิมพ์คำสั่ง pip install Flask รอจนติดตั้งเสร็จ
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง OpenCV บน Windows}
+\subsection{คู่มือการติดตั้ง OpenCV บน Windows}
 \begin{enumerate}
   \item เปิด cmd หรือ powershell หรือ windows terminal
   \item พิมพ์คำสั่ง pip install opencv-python รอจนติดตั้งเสร็จ
@@ -154,15 +167,44 @@
   \item แล้วพิมพ์ cv2.\textunderscore\textunderscore version \textunderscore\textunderscore หากติดตั้งสำเร็จจะแสดงเลข version
 \end{enumerate}
 
-\section{คู่มือการติดตั้ง Scikit learn บน Windows}
+\subsection{คู่มือการติดตั้ง Scikit learn บน Windows}
 \begin{enumerate}
   \item เปิด cmd หรือ powershell หรือ windows terminal
   \item พิมพ์คำสั่ง pip install scikit-learn รอจนติดตั้งเสร็จ
 \end{enumerate}
 
 
-\section{คู่มือการใช้งานอุปกรณ์ในการตรวจจับใบหน้า}
+\section{คู่มือการใช้งานการตรวจจับใบหน้า}
+\begin{enumerate}
+  \item เปิด Termenal
+  \item พิมพ์คำสั่ง git clone \url{https://github.com/freedomwebtech/raspbianlegacy.git}
+  \item หลังจากนั้นพิมพ์คำสั่ง cd face derection
+  \item พิมพ์คำสั่ง python main\textunderscore ui.py
+\end{enumerate}
 
+หลังจากพิมพ์คำสั่ง python main\textunderscore ui.py จะแสดงหน้าตา UI ดังรูป
 
+\begin{figure}[!ht]
+  \begin{center}
+    \includegraphics[scale=.3]{pic/main_page.png}
+    \caption{แสดงหน้า GUI เมื่อโปรแกรมเริ่มทำงาน}
+  \end{center}
+\end{figure}
 
-\section{คู่มือการใช้งานอุปกรณ์ในการตรวจจับใบหน้า}
+\section{คู่มือการใช้งานการระบุตัวตนด้วยใบหน้า}
+\begin{enumerate}
+  \item เปิด cmd หรือ powershell หรือ windows terminal
+  \item พิมพ์คำสั่ง git clone \url{https://github.com/protonnote/backend-graduate-project.git}
+  \item หลังจากนั้นพิมพ์คำสั่ง cd backend-graduate-project
+  \item หลังจากนั้นเปิดไฟล์ app.py เพื่อแก้ที่จัดเก็บรูปภาพ (UPLOAD\textunderscore FOLDER) ตามเส้นทาง (path) ที่อยู่ปัจจุบันให้ถูกต้องแล้วบันทึก
+  \item พิมพ์คำสั่ง python main.py
+\end{enumerate}
+
+หลังจากพิมพ์คำสั่ง python main.py จะแสดงหน้าตา Termenal ดังรูป
+\begin{figure}[!ht]
+  \begin{center}
+    \includegraphics[scale=.4]{pic/server_start.png}
+    \caption[แสดงหน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน]{แสดงหน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}
+    \label{fig:server_start}
+  \end{center}
+\end{figure}

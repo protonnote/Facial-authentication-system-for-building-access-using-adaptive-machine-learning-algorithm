@@ -31,17 +31,21 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.1}{\ignorespaces camera}}{22}{figure.A.1}%
+\contentsline {figure}{\numberline {ก.1}{\ignorespaces Module}}{22}{figure.A.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.2}{\ignorespaces face detection module}}{22}{figure.A.2}%
+\contentsline {figure}{\numberline {ก.2}{\ignorespaces camera}}{22}{figure.A.2}%
 \setforeignlanguage {thai}
 \contentsline {figure}{\numberline {ก.3}{\ignorespaces button}}{23}{figure.A.3}%
 \setforeignlanguage {thai}
 \contentsline {figure}{\numberline {ก.4}{\ignorespaces inside module}}{23}{figure.A.4}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.5}{\ignorespaces Raspberry Pi}}{24}{figure.A.5}%
+\contentsline {figure}{\numberline {ก.5}{\ignorespaces Raspberry Pi}}{23}{figure.A.5}%
 \setforeignlanguage {thai}
 \contentsline {figure}{\numberline {ก.6}{\ignorespaces main page}}{24}{figure.A.6}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.7}{\ignorespaces wrong predict}}{25}{figure.A.7}%
+\contentsline {figure}{\numberline {ก.7}{\ignorespaces wrong predict}}{24}{figure.A.7}%
 \addvspace {10\p@ }
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {ข.1}{\ignorespaces แสดงหน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{27}{figure.B.1}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {ข.2}{\ignorespaces แสดงหน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}}{28}{figure.B.2}%

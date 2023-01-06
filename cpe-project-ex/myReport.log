@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  4 JAN 2023 17:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  7 JAN 2023 01:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1508,11 +1508,6 @@ Overfull \hbox (9.42746pt too wide) in paragraph at lines 76--82
 \TU/Laksaman(0)/m/n/12 ทำ หน้าที่ ใน การ เป็น เว็ป เซอร์วิส []\TU/TeXGyreTermes(0)/m/n/12 (Web [][]service) []\TU/Laksaman(0)/m/n/12 ใน การ รับ รูปภาพ เพื่อ นำ รูปภาพ มาระ บุ ตัว ตน โดย ใช้ []\TU/TeXGyreTermes(0)/m/n/12 OpenCV
  []
 
-
-Overfull \hbox (13.32703pt too wide) in paragraph at lines 89--92
-\TU/Laksaman(0)/m/n/12 การ จัก เก็บ จะ จัด เก็บ ลง ใน ที่ เก็บ ข้อมูล ใน เครื่อง []\TU/TeXGyreTermes(0)/m/n/12 (Local [][]storage) []\TU/Laksaman(0)/m/n/12 บน เซิร์ฟเวอร์ โดย แบ่ง เป็น แฟ้ม ข้อมูล []\TU/TeXGyreTermes(0)/m/n/12 (Folder)
- []
-
 File: pic/dataset.png Graphic file (type bmp)
 <pic/dataset.png>
 
@@ -1597,87 +1592,64 @@ LaTeX Font Info:    Font shape `TU/Laksaman(0)/b/n' will be
 
  (chapters/appendix.tex
 ภาคผนวก ก.
+File: pic/overall_module.png Graphic file (type bmp)
+<pic/overall_module.png>
 File: pic/camera.jpg Graphic file (type bmp)
 <pic/camera.jpg>
-File: pic/system.jpg Graphic file (type bmp)
-<pic/system.jpg>
 File: pic/rpi_top.jpg Graphic file (type bmp)
 <pic/rpi_top.jpg>
 File: pic/rpi_back.jpg Graphic file (type bmp)
 <pic/rpi_back.jpg>
 File: pic/rpi.jpg Graphic file (type bmp)
 <pic/rpi.jpg>
-File: pic/main_page.png Graphic file (type bmp)
-<pic/main_page.png>
 [22
 
 
 
 ]
+
+LaTeX Warning: Text page 23 contains only floats.
+
+[23]
+File: pic/main_page.png Graphic file (type bmp)
+<pic/main_page.png>
 File: pic/comfirm_page.png Graphic file (type bmp)
 <pic/comfirm_page.png>
- [23]
-LaTeX Font Info:    Font shape `TU/Garuda(0)/m/n' will be
-(Font)              scaled to size 9.98456pt on input line 75.
-LaTeX Font Info:    Font shape `TU/TeXGyreHeros(0)/m/n' will be
-(Font)              scaled to size 9.8703pt on input line 75.
-LaTeX Font Info:    Font shape `TU/Garuda(0)/b/n' will be
-(Font)              scaled to size 9.92706pt on input line 81.
-LaTeX Font Info:    Font shape `TU/TeXGyreHeros(0)/b/n' will be
-(Font)              scaled to size 9.5777pt on input line 81.
-LaTeX Font Info:    Font shape `TU/TlwgTypist(0)/b/n' will be
-(Font)              scaled to size 11.8352pt on input line 81.
-LaTeX Font Info:    Font shape `TU/Inconsolata(0)/b/n' will be
-(Font)              scaled to size 11.07495pt on input line 81.
-LaTeX Font Info:    Font shape `TU/Laksaman(0)/m/it' will be
-(Font)              scaled to size 10.12134pt on input line 83.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermes(0)/m/it' will be
-(Font)              scaled to size 11.97217pt on input line 83.
-LaTeX Font Info:    Font shape `TU/Garuda(0)/m/it' will be
-(Font)              scaled to size 9.98456pt on input line 83.
-LaTeX Font Info:    Font shape `TU/TeXGyreHeros(0)/m/it' will be
-(Font)              scaled to size 9.8703pt on input line 83.
-LaTeX Font Info:    Font shape `TU/TlwgTypist(0)/m/it' will be
-(Font)              scaled to size 12.40283pt on input line 83.
-LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/it' will be
-(Font)              scaled to size 11.31738pt on input line 83.
-LaTeX Font Info:    Font shape `TU/Laksaman(0)/b/it' will be
-(Font)              scaled to size 10.12134pt on input line 85.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermes(0)/b/it' will be
-(Font)              scaled to size 11.51898pt on input line 85.
-LaTeX Font Info:    Font shape `TU/Garuda(0)/b/it' will be
-(Font)              scaled to size 9.92706pt on input line 85.
-LaTeX Font Info:    Font shape `TU/TeXGyreHeros(0)/b/it' will be
-(Font)              scaled to size 9.5777pt on input line 85.
-LaTeX Font Info:    Font shape `TU/TlwgTypist(0)/b/it' will be
-(Font)              scaled to size 11.8352pt on input line 85.
-LaTeX Font Info:    Font shape `TU/Inconsolata(0)/b/it' will be
-(Font)              scaled to size 11.07495pt on input line 85.
- [24] [25]
+ [24]
 ภาคผนวก ข.
 
-Overfull \hbox (1.85573pt too wide) in paragraph at lines 94--96
+Overfull \hbox (1.85573pt too wide) in paragraph at lines 104--106
 \TU/Laksaman(0)/m/n/12 โปรแกรม ของ โครง งาน นี้ สามารถ ดาวน์โหลด ได้ จาก [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.example.com/ test_[]\TU/TlwgTypist(0)/m/n/12 ทดสอบ[]\TU/Inconsolata(0)/m/n/12 _url$$[][]
  []
 
 
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 100--101
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 111--112
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
 
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 112--113
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 123--124
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
-[26
+[25
 
 ]
-Overfull \hbox (1.72578pt too wide) in paragraph at lines 135--136
+Overfull \hbox (1.72578pt too wide) in paragraph at lines 148--149
 []\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
  []
 
-) [27]
+[26]
+File: pic/main_page.png Graphic file (type bmp)
+<pic/main_page.png>
+
+Overfull \hbox (21.97665pt too wide) in paragraph at lines 197--198
+[]\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ protonnote/ backend- graduate- project.git$$[][] 
+ []
+
+File: pic/server_start.png Graphic file (type bmp)
+<pic/server_start.png>
+) [27] [28]
 Vita
 File: pic/my_pic.jpg Graphic file (type bmp)
 <pic/my_pic.jpg>
@@ -1686,7 +1658,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
 
-[28
+[29
 
 
 
@@ -1784,15 +1756,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: C69D25919D4374DCC20A7E1B4F8FFEC6;17630.
+(rerunfilecheck)             Checksum: 7A787192343894EA839FFF52DF1F111A;18506.
  ) 
 Here is how much of TeX's memory you used:
- 19850 strings out of 410432
- 379275 string characters out of 2810511
- 951820 words of memory out of 3000000
- 40702 multiletter control sequences out of 15000+600000
- 473963 words of font info for 141 fonts, out of 8000000 for 9000
+ 19823 strings out of 410432
+ 377910 string characters out of 2810511
+ 952783 words of memory out of 3000000
+ 40694 multiletter control sequences out of 15000+600000
+ 473819 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (38 pages, 544316 bytes).
+Output written on myReport.xdv (39 pages, 555444 bytes).
