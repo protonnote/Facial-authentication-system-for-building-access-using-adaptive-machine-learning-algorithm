@@ -23,20 +23,20 @@
 \section{ภาพรวมโครงสร้างและการทำงานของระบบ}
 
 
-\begin{figure}[h]
+\begin{figure}[ht!]
   \begin{center}
-    \includegraphics{pic/overview.jpg}
-  \caption[Poem]{Flow Diagram ภาพรวมของระบบ}
+    \includegraphics[scale=.5]{pic/overview.png}
+  \caption[Flow Diagram ภาพรวมของระบบ]{Flow Diagram ภาพรวมของระบบ}
   \end{center}
   \label{fig:overview}
 \end{figure}
 
 \subsection{โมดูลกล้อง (Camera Module)}
 
-\begin{figure}[h]
+\begin{figure}[ht!]
   \begin{center}
-    \includegraphics[scale=.6]{pic/camera.png}
-    \caption[Poem]{ส่วนประกอบต่าง ๆ ที่ใช้ในโมดูลกล้อง (Camera Module)}
+    \includegraphics[scale=.45]{pic/camera_module.png}
+    \caption[ส่วนประกอบต่าง ๆ ที่ใช้ในโมดูลกล้อง (Camera Module)]{ส่วนประกอบต่าง ๆ ที่ใช้ในโมดูลกล้อง (Camera Module)}
     \label{fig:camera}
   \end{center}
 \end{figure}
@@ -63,10 +63,10 @@
 โดยเซิร์ฟเวอร์ส่งข้อมูลแบบ JSON กลับมาให้ Raspberry Pi แบบการสนอง (Response) เมื่อรับข้อมูลจากเซิร์ฟเวอร์จะทำการนำไปแสดงผลที่หน้าจอ 
 และเมื่อให้คะแนนความถูกผิดแล้วนั้นจะส่งผลคะแนนกลับไปยังเซิร์ฟเวอร์เพื่อทำการย้ายไปยังที่จัดเก็บตามรายชื่อ \\
 
-\begin{figure}[h]
+\begin{figure}[ht]
   \begin{center}
     \includegraphics[scale=.45]{pic/result_page_blind.png}
-  \caption[Poem]{แสดงผลลัพธ์การระบุตัวตน}
+  \caption[แสดงผลลัพธ์การระบุตัวตน]{แสดงผลลัพธ์การระบุตัวตน}
   \end{center}
   \label{fig:predict_result}
 \end{figure}
@@ -90,10 +90,10 @@
 ในแต่ละแฟ้มก็จะเป็นรายชื่อของบุคคลที่ลงทะเบียนหรือเป็นผู้ที่ใช้งานห้อง 
 โดยเมื่อได้รับคะแนนจากการระบุตัวตนก็ไปเช็คกับผลลัพธ์จากการระบุแล้วจึงจะย้ายรูปภาพไปยังแฟ้มของรายชื่อนั้น ๆ
 
-\begin{figure}[h]
+\begin{figure}[ht]
   \begin{center}
     \includegraphics[scale=.5]{pic/dataset.png}
-  \caption[Poem]{แผนภาพแสดงการจัดเก็บรูปภาพใบหน้า}
+  \caption[แผนภาพแสดงการจัดเก็บรูปภาพใบหน้า]{แผนภาพแสดงการจัดเก็บรูปภาพใบหน้า}
   \end{center}
   \label{fig:folder}
 \end{figure}

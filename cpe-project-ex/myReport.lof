@@ -1,33 +1,33 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Poem}}{7}{figure.2.1}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces ผังการทำงานของ RESTful}}{7}{figure.2.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Poem}}{8}{figure.2.2}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces ความแตกต่างของการบีบอัดข้อมูล}}{8}{figure.2.2}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Poem}}{8}{figure.2.3}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces โปรโตคอล HTTP}}{8}{figure.2.3}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Poem}}{9}{figure.2.4}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces โครงสร้าง Deep Learning}}{9}{figure.2.4}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Poem}}{10}{figure.2.5}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Deep Learning ที่มีหลาย Hidden ayer}}{10}{figure.2.5}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Poem}}{12}{figure.2.6}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces การทำงานของ OpenFace}}{12}{figure.2.6}%
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Poem}}{13}{figure.3.1}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Flow Diagram ภาพรวมของระบบ}}{13}{figure.3.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Poem}}{13}{figure.3.2}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces ส่วนประกอบต่าง ๆ ที่ใช้ในโมดูลกล้อง (Camera Module)}}{13}{figure.3.2}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Poem}}{15}{figure.3.3}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces แสดงผลลัพธ์การระบุตัวตน}}{15}{figure.3.3}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Poem}}{16}{figure.3.4}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces แผนภาพแสดงการจัดเก็บรูปภาพใบหน้า}}{16}{figure.3.4}%
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Poem}}{17}{figure.4.1}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces กราฟแสดงของความแม่นยำของการระบุตัวตนในแต่ละวัน}}{17}{figure.4.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Poem}}{18}{figure.4.2}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces กราฟแสดงเวลาในการประมวลผลของระบบในแต่ละวัน}}{18}{figure.4.2}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces bar graph}}{18}{figure.4.3}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces กราฟแสดงความพึงพอใจของผู้ทดลอง}}{18}{figure.4.3}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
@@ -48,4 +48,4 @@
 \setforeignlanguage {thai}
 \contentsline {figure}{\numberline {ข.1}{\ignorespaces แสดงหน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{27}{figure.B.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ข.2}{\ignorespaces แสดงหน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}}{28}{figure.B.2}%
+\contentsline {figure}{\numberline {ข.2}{\ignorespaces หน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}}{28}{figure.B.2}%
