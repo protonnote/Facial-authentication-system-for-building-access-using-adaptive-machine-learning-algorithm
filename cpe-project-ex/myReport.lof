@@ -14,38 +14,40 @@
 \contentsline {figure}{\numberline {2.6}{\ignorespaces การทำงานของ OpenFace}}{12}{figure.2.6}%
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Flow Diagram ภาพรวมของระบบ}}{13}{figure.3.1}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces ภาพรวมของระบบ}}{13}{figure.3.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces ส่วนประกอบต่าง ๆ ที่ใช้ในโมดูลกล้อง (Camera Module)}}{13}{figure.3.2}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces ส่วนประกอบต่าง ๆ ที่ใช้ในมอดูลกล้อง (Camera Module)}}{14}{figure.3.2}%
 \setforeignlanguage {thai}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces แสดงผลลัพธ์การระบุตัวตน}}{15}{figure.3.3}%
 \setforeignlanguage {thai}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces แผนภาพแสดงการจัดเก็บรูปภาพใบหน้า}}{16}{figure.3.4}%
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces กราฟแสดงของความแม่นยำของการระบุตัวตนในแต่ละวัน}}{17}{figure.4.1}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces กราฟแสดงความแม่นยำของการตรวจจับใบหน้า}}{18}{figure.4.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces กราฟแสดงเวลาในการประมวลผลของระบบในแต่ละวัน}}{18}{figure.4.2}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces กราฟแสดงความแม่นยำของการระบุตัวตนในแต่ละวัน}}{19}{figure.4.2}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces กราฟแสดงความพึงพอใจของผู้ทดลอง}}{18}{figure.4.3}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces กราฟแสดงเวลาในการประมวลผลของระบบในแต่ละวัน}}{19}{figure.4.3}%
+\setforeignlanguage {thai}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces กราฟแสดงความพึงพอใจของผู้ทดลอง}}{20}{figure.4.4}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.1}{\ignorespaces Module}}{22}{figure.A.1}%
+\contentsline {figure}{\numberline {ก.1}{\ignorespaces Module}}{24}{figure.A.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.2}{\ignorespaces camera}}{22}{figure.A.2}%
+\contentsline {figure}{\numberline {ก.2}{\ignorespaces camera}}{24}{figure.A.2}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.3}{\ignorespaces button}}{23}{figure.A.3}%
+\contentsline {figure}{\numberline {ก.3}{\ignorespaces button}}{25}{figure.A.3}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.4}{\ignorespaces inside module}}{23}{figure.A.4}%
+\contentsline {figure}{\numberline {ก.4}{\ignorespaces inside module}}{25}{figure.A.4}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.5}{\ignorespaces Raspberry Pi}}{23}{figure.A.5}%
+\contentsline {figure}{\numberline {ก.5}{\ignorespaces Raspberry Pi}}{25}{figure.A.5}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.6}{\ignorespaces main page}}{24}{figure.A.6}%
+\contentsline {figure}{\numberline {ก.6}{\ignorespaces main page}}{26}{figure.A.6}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.7}{\ignorespaces wrong predict}}{24}{figure.A.7}%
+\contentsline {figure}{\numberline {ก.7}{\ignorespaces wrong predict}}{26}{figure.A.7}%
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ข.1}{\ignorespaces แสดงหน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{27}{figure.B.1}%
+\contentsline {figure}{\numberline {ข.1}{\ignorespaces แสดงหน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{29}{figure.B.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ข.2}{\ignorespaces หน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}}{28}{figure.B.2}%
+\contentsline {figure}{\numberline {ข.2}{\ignorespaces หน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}}{30}{figure.B.2}%

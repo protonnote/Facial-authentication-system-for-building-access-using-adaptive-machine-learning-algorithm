@@ -1045,6 +1045,9 @@ INPUT .\chapters\eval.tex
 INPUT chapters\eval.tex
 INPUT .\chapters\eval.tex
 INPUT chapters\eval.tex
+INPUT .\pic\face_result.png
+INPUT .\pic\face_result.png
+INPUT pic\face_result.png
 INPUT .\pic\graph_acc.jpg
 INPUT .\pic\graph_acc.jpg
 INPUT pic\graph_acc.jpg

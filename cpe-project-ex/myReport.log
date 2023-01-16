@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  14 JAN 2023 18:09
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  16 JAN 2023 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1477,7 +1477,7 @@ File: pic/openface.jpg Graphic file (type bmp)
 File: pic/overview.png Graphic file (type bmp)
 <pic/overview.png>
 
-Overfull \hbox (34.36624pt too wide) in paragraph at lines 28--29
+Overfull \hbox (10.57535pt too wide) in paragraph at lines 28--29
  [] 
  []
 
@@ -1489,42 +1489,45 @@ File: pic/camera_module.png Graphic file (type bmp)
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 61--65
+Underfull \hbox (badness 10000) in paragraph at lines 74--78
 
  []
 
 File: pic/result_page_blind.png Graphic file (type bmp)
 <pic/result_page_blind.png>
-[14]
-Overfull \hbox (9.42746pt too wide) in paragraph at lines 76--82
+[14] [15]
+Overfull \hbox (9.42746pt too wide) in paragraph at lines 89--95
 \TU/Laksaman(0)/m/n/12 ทำ หน้าที่ ใน การ เป็น เว็ป เซอร์วิส []\TU/TeXGyreTermes(0)/m/n/12 (Web [][]service) []\TU/Laksaman(0)/m/n/12 ใน การ รับ รูปภาพ เพื่อ นำ รูปภาพ มาระ บุ ตัว ตน โดย ใช้ []\TU/TeXGyreTermes(0)/m/n/12 OpenCV
  []
 
 File: pic/dataset.png Graphic file (type bmp)
 <pic/dataset.png>
-[15]) [16]
+[16]) [17]
 \openout2 = `chapters/eval.aux'.
 
  (chapters/eval.tex
 บทที่ 4.
+File: pic/face_result.png Graphic file (type bmp)
+<pic/face_result.png>
 File: pic/graph_acc.jpg Graphic file (type bmp)
 <pic/graph_acc.jpg>
-File: pic/graph_acc.jpg Graphic file (type bmp)
-<pic/graph_acc.jpg>
-[17
+[18
 
 
 
 
 ]
+File: pic/graph_acc.jpg Graphic file (type bmp)
+<pic/graph_acc.jpg>
+ [19]
 File: pic/bar_graph.png Graphic file (type bmp)
 <pic/bar_graph.png>
-) [18]
+) [20]
 \openout2 = `chapters/conclusion.aux'.
 
  (chapters/conclusion.tex
 บทที่ 5.
-) [19
+) [21
 
 
 
@@ -1564,7 +1567,7 @@ Underfull \hbox (badness 7047) in paragraph at lines 95--103
 \TU/Inconsolata(0)/m/n/12 en.wikipedia.org/ w/ index.php? title=Raspberry_Pi&oldid=1126331603$$[][][][]\TU/TeXGyreTermes(0)/m/n/12 , []\TU/Laksaman(0)/m/n/12 ธัน-
  []
 
-) [20
+) [22
 
 
 
@@ -1574,7 +1577,7 @@ LaTeX Font Info:    Font shape `TU/Laksaman(0)/m/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
 LaTeX Font Info:    Font shape `TU/Laksaman(0)/b/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
- [21
+ [23
 
 ]
 \openout2 = `chapters/appendix.aux'.
@@ -1591,20 +1594,20 @@ File: pic/rpi_back.jpg Graphic file (type bmp)
 <pic/rpi_back.jpg>
 File: pic/rpi.jpg Graphic file (type bmp)
 <pic/rpi.jpg>
-[22
+[24
 
 
 
 ]
 
-LaTeX Warning: Text page 23 contains only floats.
+LaTeX Warning: Text page 25 contains only floats.
 
-[23]
+[25]
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 File: pic/comfirm_page.png Graphic file (type bmp)
 <pic/comfirm_page.png>
- [24]
+ [26]
 ภาคผนวก ข.
 
 Overfull \hbox (1.85573pt too wide) in paragraph at lines 104--106
@@ -1621,14 +1624,14 @@ Overfull \hbox (12.32167pt too wide) in paragraph at lines 123--124
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
-[25
+[27
 
 ]
 Overfull \hbox (1.72578pt too wide) in paragraph at lines 148--149
 []\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
  []
 
-[26]
+[28]
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 
@@ -1638,7 +1641,7 @@ Overfull \hbox (21.97665pt too wide) in paragraph at lines 199--200
 
 File: pic/server_start.png Graphic file (type bmp)
 <pic/server_start.png>
-) [27] [28]
+) [29] [30]
 Vita
 File: pic/my_pic.jpg Graphic file (type bmp)
 <pic/my_pic.jpg>
@@ -1647,7 +1650,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
 
-[29
+[31
 
 
 
@@ -1745,15 +1748,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 7A787192343894EA839FFF52DF1F111A;18506.
+(rerunfilecheck)             Checksum: C450586CCAF13727920A9C6658F1BFD5;18793.
  ) 
 Here is how much of TeX's memory you used:
- 19826 strings out of 410432
- 378010 string characters out of 2810511
- 953045 words of memory out of 3000000
- 40696 multiletter control sequences out of 15000+600000
+ 19835 strings out of 410432
+ 378209 string characters out of 2810511
+ 954405 words of memory out of 3000000
+ 40704 multiletter control sequences out of 15000+600000
  473819 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (39 pages, 570316 bytes).
+Output written on myReport.xdv (41 pages, 584472 bytes).
