@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  17 JAN 2023 14:51
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  17 JAN 2023 17:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1506,13 +1506,23 @@ File: pic/dataset.png Graphic file (type bmp)
 บทที่ 4.
 
 Overfull \hbox (2.45395pt too wide) in paragraph at lines 13--15
-\TU/Laksaman(0)/m/n/12 การ ทดสอบ นี้ จะ เป็นการ ทดสอบ เพื่อ วัดผล ความ แม่นยำ ใน การ ตรวจ จับ ภาพ ใบหน้า โดย มี รูปภาพ ใบหน้า บุคคล
+\TU/Laksaman(0)/m/n/12 การ ทดสอบ นี้ จะ เป็นการ ทดสอบ เพื่อ วัดผล ความ แม่นยำ ใน การ ตรวจ จับ ภาพ ใบหน้า บุคคล โดย มี รูปภาพ ใบหน้า
  []
 
 File: pic/face_result.png Graphic file (type bmp)
 <pic/face_result.png>
+
+Overfull \hbox (4.9863pt too wide) in paragraph at lines 30--32
+\TU/Laksaman(0)/m/n/12 การ ทดสอบ นี้ จะ เป็นการ ทดสอบ เพื่อ วัดผล ความ แม่นยำ ใน การ ระบุ ตัว ตน มี ความ แม่นยำ มี แนว โน้ม ที่ เพิ่ม ขึ้น หรือ
+ []
+
 File: pic/graph_acc.jpg Graphic file (type bmp)
 <pic/graph_acc.jpg>
+
+Overfull \hbox (2.26889pt too wide) in paragraph at lines 45--48
+\TU/Laksaman(0)/m/n/12 การ ทดสอบ ต่อ ไป นี้ เป็นการ ทดสอบ เพื่อ วัดผล เวลา ใน การ ประมวล ผล รูปภาพ ใบหน้า ตลอด จน ระบุ ตัว ตน ที่ ออก-
+ []
+
 [17
 
 
@@ -1761,4 +1771,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (40 pages, 596500 bytes).
+Output written on myReport.xdv (40 pages, 597112 bytes).
