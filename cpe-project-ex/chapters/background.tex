@@ -17,7 +17,7 @@
 ซึ่งในโครงงานนี้เลือกที่จะเอาการตรวจจับใบหน้ามาใช้งาน
 
 \section{RESTful API}
-เป็นแนวทางในการสร้างเว็บเซอร์วิส (Web Service) แบบเรียบง่าย โดยเรียกใช้ผ่านทางเมท็อด GET / POST / PUT / DELETE
+เป็นแนวทางในการสร้างเว็บเซอร์วิส (Web Service) โดยเรียกใช้ผ่านทางเมท็อด GET POST PUT และ DELETE
 โดย RESTful จะอยู่บนพื้นฐานของเกณฑ์วิธีขนส่งข้อความหลายมิติ (Hypertext Transfer Protocol: HTTP) โดยผู้รับบริการ (Client) จะส่ง
 คำขอ (Request) ไปยังรหัสสืบค้นข้อมูลซึ่งระบุแหล่งที่อยู่ของทรัพยากรที่ต้องการ (Uniform Resource Locator: URI) ที่กำหนด และรับ Response กลับมาเป็น Payload 
 ในรูปแบบของ (HyperText Markup Language: HTML), (Document Markup Language: XML), (JavaScript Object Notation: JSON) หรือรูปแบบ (format) อื่น ๆ \cite{REST}
@@ -48,10 +48,10 @@
 
 \subsection{การบีบอัดข้อมูลภาพ (Image compression)}
 \begin{enumerate}
-  \item การบีบอัดแบบไม่มีการสูญเสียรายละเอียดข้อมูล (Lossless compression) \\
+  \item \textbf{การบีบอัดแบบไม่มีการสูญเสียรายละเอียดข้อมูล (Lossless compression)} \\
   ค่าความสว่างของแต่ละจุดภาพจะยังคงอยู่เหมือนเดิมทุกประการ หรือไม่มีการเปลี่ยนแปลงค่าของแต่ละจุดภาพ 
   ซึ่งการบีบอัดวิธีนี้จะอาศัยเทคนิคการจัดเก็บข้อมูลเชิงเลขในการลดขนาดของข้อมูล
-  \item การบีบอัดแบบสูญเสียรายละเอียดข้อมูล (Lossy compression) \\
+  \item \textbf{การบีบอัดแบบสูญเสียรายละเอียดข้อมูล (Lossy compression)} \\
   วิธีการนี้จะมีการเปลี่ยนแปลงค่าความสว่างของจุดภาพนั่นหมายความว่า วิธีการนี้ไม่เหมาะสมสำหรับข้อมูลภาพที่ต้องมีการจำแนกข้อมูล (Classification)
 \end{enumerate}
 โดยในโครงงานนี้จะใช้การใช้การบีบอัดรูปภาพแบบไม่มีการสูญเสียรายละเอียดข้อมูล (Lossless compression)
@@ -211,7 +211,7 @@ Extracurricular knowledge used, applied, or integrated in this project
 }
 \begin{itemize}
   \item การใช้งาน Raspbian OS ของ Raspberry Pi
-  \item การเซ็ทกล้องให้กับ Raspberry Pi และระบบ GPIO ของ Raspberry Pi เพื่อติดตั้งชุดระบายความร้อน
+  \item การตั้งค่ากล้องให้กับ Raspberry Pi และระบบ GPIO ของ Raspberry Pi เพื่อติดตั้งชุดระบายความร้อน
 \end{itemize}
 
 

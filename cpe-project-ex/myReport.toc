@@ -48,7 +48,7 @@
 \contentsline {subsection}{\numberline {3.1.7}การเรียนรู้รูปภาพ}{16}{subsection.3.1.7}%
 \contentsline {chapter}{\numberline {4}การทดลองและผลลัพธ์}{17}{chapter.4}%
 \contentsline {section}{\numberline {4.1}ความแม่นยำของการตรวจจับใบหน้า}{17}{section.4.1}%
-\contentsline {section}{\numberline {4.2}ความแม่นยำของการระบุตัวตนด้วยใบหน้าในแต่ละวัน}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.2}ความแม่นยำของการระบุตัวตนด้วยใบหน้าในแต่ละวัน}{18}{section.4.2}%
 \contentsline {section}{\numberline {4.3}เวลาในการประมวลผลรูปภาพใบหน้า}{18}{section.4.3}%
 \contentsline {section}{\numberline {4.4}ความพึงพอใจของการทดลอง}{19}{section.4.4}%
 \contentsline {chapter}{\numberline {5}บทสรุปและข้อเสนอแนะ}{20}{chapter.5}%
