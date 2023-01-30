@@ -1035,6 +1035,12 @@ INPUT pic\result_page_blind.png
 INPUT .\pic\dataset.png
 INPUT .\pic\dataset.png
 INPUT pic\dataset.png
+INPUT .\pic\pin_correct.png
+INPUT .\pic\pin_correct.png
+INPUT pic\pin_correct.png
+INPUT .\pic\pin_incorrect.png
+INPUT .\pic\pin_incorrect.png
+INPUT pic\pin_incorrect.png
 INPUT .\chapters\eval.tex
 INPUT .\chapters\eval.tex
 INPUT .\chapters\eval.tex
