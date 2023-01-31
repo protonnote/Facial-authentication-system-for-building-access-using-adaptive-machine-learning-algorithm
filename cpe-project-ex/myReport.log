@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  30 JAN 2023 17:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  31 JAN 2023 14:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1774,15 +1774,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 0ECFF52980AEA488A7B5F721D1D6513D;19031.
+(rerunfilecheck)             Checksum: 53F45B4A1F870D9E775E7D30E625693B;19055.
  ) 
 Here is how much of TeX's memory you used:
  19856 strings out of 410432
  378658 string characters out of 2810511
- 954095 words of memory out of 3000000
+ 954125 words of memory out of 3000000
  40723 multiletter control sequences out of 15000+600000
  473819 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (41 pages, 611796 bytes).
+Output written on myReport.xdv (41 pages, 611856 bytes).
