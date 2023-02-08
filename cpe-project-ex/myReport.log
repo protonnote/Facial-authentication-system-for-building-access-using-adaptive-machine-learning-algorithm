@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  1 FEB 2023 14:22
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  8 FEB 2023 19:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1629,41 +1629,51 @@ File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 File: pic/comfirm_page.png Graphic file (type bmp)
 <pic/comfirm_page.png>
- [26]
+File: pic/pin_correct.png Graphic file (type bmp)
+<pic/pin_correct.png>
+File: pic/pin_incorrect.png Graphic file (type bmp)
+<pic/pin_incorrect.png>
+ [26] [27]
 ภาคผนวก ข.
 
-Overfull \hbox (1.85573pt too wide) in paragraph at lines 104--106
+Overfull \hbox (1.85573pt too wide) in paragraph at lines 119--121
 \TU/Laksaman(0)/m/n/12 โปรแกรม ของ โครง งาน นี้ สามารถ ดาวน์โหลด ได้ จาก [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.example.com/ test_[]\TU/TlwgTypist(0)/m/n/12 ทดสอบ[]\TU/Inconsolata(0)/m/n/12 _url$$[][]
  []
 
 
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 111--112
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 126--127
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
 
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 123--124
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 138--139
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
-[27
+[28
 
 ]
-Overfull \hbox (1.72578pt too wide) in paragraph at lines 148--149
+Overfull \hbox (1.72578pt too wide) in paragraph at lines 163--164
 []\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
  []
 
-[28]
+[29]
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 
-Overfull \hbox (21.97665pt too wide) in paragraph at lines 199--200
+Overfull \hbox (21.97665pt too wide) in paragraph at lines 214--215
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ protonnote/ backend- graduate- project.git$$[][] 
  []
 
 File: pic/server_start.png Graphic file (type bmp)
 <pic/server_start.png>
-) [29] [30]
+[30] [31]
+ภาคผนวก ฃ.
+File: pic/PDPA.png Graphic file (type bmp)
+<pic/PDPA.png>
+) [32
+
+]
 Vita
 File: pic/my_pic.jpg Graphic file (type bmp)
 <pic/my_pic.jpg>
@@ -1672,7 +1682,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
 
-[31
+[33
 
 
 
@@ -1770,15 +1780,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 53F45B4A1F870D9E775E7D30E625693B;19055.
+(rerunfilecheck)             Checksum: 7751247EDE6D6C0D760354A3FF7844D9;19876.
  ) 
 Here is how much of TeX's memory you used:
- 19856 strings out of 410432
- 378658 string characters out of 2810511
- 954125 words of memory out of 3000000
- 40723 multiletter control sequences out of 15000+600000
+ 19868 strings out of 410432
+ 378843 string characters out of 2810511
+ 956222 words of memory out of 3000000
+ 40734 multiletter control sequences out of 15000+600000
  473819 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (41 pages, 608484 bytes).
+Output written on myReport.xdv (43 pages, 625852 bytes).
