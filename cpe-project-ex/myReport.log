@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  11 FEB 2023 20:07
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  13 FEB 2023 18:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1534,9 +1534,14 @@ Overfull \hbox (17.03096pt too wide) detected at line 36
 ]
 File: pic/Note_percent.png Graphic file (type bmp)
 <pic/Note_percent.png>
-File: pic/Time.png Graphic file (type bmp)
-<pic/Time.png>
- [19]
+File: pic/Time_1.png Graphic file (type bmp)
+<pic/Time_1.png>
+
+Overfull \hbox (3.95006pt too wide) in paragraph at lines 63--64
+ [] 
+ []
+
+[19]
 File: pic/bar_graph.png Graphic file (type bmp)
 <pic/bar_graph.png>
 ) [20]
@@ -1779,11 +1784,11 @@ Package rerunfilecheck Info: File `myReport.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  19876 strings out of 410432
- 378994 string characters out of 2810511
+ 379010 string characters out of 2810511
  956222 words of memory out of 3000000
  40741 multiletter control sequences out of 15000+600000
  473819 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 631368 bytes).
+Output written on myReport.xdv (43 pages, 631372 bytes).
