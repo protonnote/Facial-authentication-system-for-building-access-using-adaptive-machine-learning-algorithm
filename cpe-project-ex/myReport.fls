@@ -1057,9 +1057,9 @@ INPUT pic\face_result.png
 INPUT .\pic\Note_percent.png
 INPUT .\pic\Note_percent.png
 INPUT pic\Note_percent.png
-INPUT .\pic\Time_1.png
-INPUT .\pic\Time_1.png
-INPUT pic\Time_1.png
+INPUT .\pic\Time.png
+INPUT .\pic\Time.png
+INPUT pic\Time.png
 INPUT .\pic\bar_graph.png
 INPUT .\pic\bar_graph.png
 INPUT pic\bar_graph.png
