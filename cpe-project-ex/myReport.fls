@@ -1060,9 +1060,9 @@ INPUT pic\Note_percent.png
 INPUT .\pic\Time.png
 INPUT .\pic\Time.png
 INPUT pic\Time.png
-INPUT .\pic\bar_graph.png
-INPUT .\pic\bar_graph.png
-INPUT pic\bar_graph.png
+INPUT .\pic\test_graph.png
+INPUT .\pic\test_graph.png
+INPUT pic\test_graph.png
 INPUT .\chapters\conclusion.tex
 INPUT .\chapters\conclusion.tex
 INPUT .\chapters\conclusion.tex

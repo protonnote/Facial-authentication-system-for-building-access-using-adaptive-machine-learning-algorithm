@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  15 FEB 2023 15:23
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  17 FEB 2023 22:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1537,8 +1537,8 @@ File: pic/Note_percent.png Graphic file (type bmp)
 File: pic/Time.png Graphic file (type bmp)
 <pic/Time.png>
  [19]
-File: pic/bar_graph.png Graphic file (type bmp)
-<pic/bar_graph.png>
+File: pic/test_graph.png Graphic file (type bmp)
+<pic/test_graph.png>
 ) [20]
 \openout2 = `chapters/conclusion.aux'.
 
@@ -1779,7 +1779,7 @@ Package rerunfilecheck Info: File `myReport.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  19876 strings out of 410432
- 378994 string characters out of 2810511
+ 379002 string characters out of 2810511
  956222 words of memory out of 3000000
  40741 multiletter control sequences out of 15000+600000
  473819 words of font info for 123 fonts, out of 8000000 for 9000
