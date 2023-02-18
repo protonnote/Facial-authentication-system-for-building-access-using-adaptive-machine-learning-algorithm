@@ -37,28 +37,28 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.1}{\ignorespaces อุปกรณ์ตรวจจับใบหน้า แสดงผลและรับผล}}{24}{figure.A.1}%
+\contentsline {figure}{\numberline {ก.1}{\ignorespaces อุปกรณ์ตรวจจับใบหน้า แสดงผลและรับผล}}{25}{figure.A.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.2}{\ignorespaces กล้องที่ใช้ในการตรวจจับใบหน้าบุคคล}}{24}{figure.A.2}%
+\contentsline {figure}{\numberline {ก.2}{\ignorespaces กล้องที่ใช้ในการตรวจจับใบหน้าบุคคล}}{25}{figure.A.2}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.3}{\ignorespaces ปุ่มกดยืนยันความถูกต้องของการระบุตัวตน}}{25}{figure.A.3}%
+\contentsline {figure}{\numberline {ก.3}{\ignorespaces ปุ่มกดยืนยันความถูกต้องของการระบุตัวตน}}{26}{figure.A.3}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.4}{\ignorespaces ภายในมอดูลการตรวจจับใบหน้า และแสดงผล}}{25}{figure.A.4}%
+\contentsline {figure}{\numberline {ก.4}{\ignorespaces ภายในมอดูลการตรวจจับใบหน้า และแสดงผล}}{26}{figure.A.4}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.5}{\ignorespaces การเชื่อมต่อ Raspberry Pi}}{25}{figure.A.5}%
+\contentsline {figure}{\numberline {ก.5}{\ignorespaces การเชื่อมต่อ Raspberry Pi}}{26}{figure.A.5}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.6}{\ignorespaces หน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{26}{figure.A.6}%
+\contentsline {figure}{\numberline {ก.6}{\ignorespaces หน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{27}{figure.A.6}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.7}{\ignorespaces หน้า GUI เมื่อผลลัพธ์การระบุตัวตนผิด}}{26}{figure.A.7}%
+\contentsline {figure}{\numberline {ก.7}{\ignorespaces หน้า GUI เมื่อผลลัพธ์การระบุตัวตนผิด}}{27}{figure.A.7}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.8}{\ignorespaces หน้า GUI เมื่อผลลัพธ์รหัสยืนยันตัวตนถูกต้อง}}{27}{figure.A.8}%
+\contentsline {figure}{\numberline {ก.8}{\ignorespaces หน้า GUI เมื่อผลลัพธ์รหัสยืนยันตัวตนถูกต้อง}}{28}{figure.A.8}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ก.9}{\ignorespaces หน้า GUI เมื่อผลลัพธ์รหัสยืนยันตัวตนไม่ถูกต้อง}}{27}{figure.A.9}%
+\contentsline {figure}{\numberline {ก.9}{\ignorespaces หน้า GUI เมื่อผลลัพธ์รหัสยืนยันตัวตนไม่ถูกต้อง}}{28}{figure.A.9}%
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ข.1}{\ignorespaces หน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{30}{figure.B.1}%
+\contentsline {figure}{\numberline {ข.1}{\ignorespaces หน้า GUI เมื่อโปรแกรมเริ่มทำงาน}}{31}{figure.B.1}%
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ข.2}{\ignorespaces หน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}}{31}{figure.B.2}%
+\contentsline {figure}{\numberline {ข.2}{\ignorespaces หน้า Terminal เมื่อโปรแกรมระบุตัวตนด้วยใบหน้าเริ่มทำงาน}}{32}{figure.B.2}%
 \addvspace {10\p@ }
 \setforeignlanguage {thai}
-\contentsline {figure}{\numberline {ฃ.1}{\ignorespaces หนังสือขอความยินยอม เก็บรวบรวม ใช้ และเปิดเผยข้อมูลส่วนบุคคล}}{32}{figure.C.1}%
+\contentsline {figure}{\numberline {ฃ.1}{\ignorespaces หนังสือขอความยินยอม เก็บรวบรวม ใช้ และเปิดเผยข้อมูลส่วนบุคคล}}{33}{figure.C.1}%
