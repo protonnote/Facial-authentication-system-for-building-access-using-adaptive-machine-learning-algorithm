@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  18 FEB 2023 23:38
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  21 FEB 2023 20:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1545,16 +1545,26 @@ File: pic/test_graph.png Graphic file (type bmp)
  (chapters/conclusion.tex
 บทที่ 5.
 
-Overfull \hbox (0.6624pt too wide) in paragraph at lines 13--14
-[]\TU/Laksaman(0)/m/n/12 ใน การ ตรวจ จับ รูปภาพ ใบหน้า บน มอ ดู ล กล้อง เมื่อ ผู้ ใช้ งาน ขยับ ตัว ใน ขณะ ที่ กล้อง โฟกัส จะ ทำให้ ผลลัพธ์
+Overfull \hbox (5.91298pt too wide) in paragraph at lines 14--15
+\TU/Laksaman(0)/m/n/12 บุคคล จะ ทำให้ รูปภาพ ใบหน้า บุคคล ไม่ ชัด ส่ง ผล ให้ ผลลัพธ์ ของ รูปภาพ ที่ ส่ง ไป ระบุ ตัว ตน มี ความ ผิด พลาด
  []
 
-) [22
+
+Overfull \hbox (0.13078pt too wide) in paragraph at lines 18--19
+[]\TU/Laksaman(0)/m/n/12 ใน ขั้น ตอน การ กด ปุ่ม กด ตัวเลข เพื่อ ยืนยัน ตัว ตน เมื่อ ผู้ ใช้ กด ปุ่ม ค้าง จะ ทำให้ เลข ยืนยัน ตัว ตน จะ ผิด พลาด
+ []
+
+
+Overfull \hbox (0.18709pt too wide) in paragraph at lines 37--38
+[]\TU/Laksaman(0)/m/n/12 ควร สำรวจ พื้นที่ ติด ตั้ง มอ ดู ล กล้อง เนื่องจาก ต้อง พิจารณา สภาพ แสง ของ พื้นที่ ติด ตั้ง เพื่อ พัฒนาการ ปรับ
+ []
+
+[22
 
 
 
 
-] (myReport.bbl
+]) [23] (myReport.bbl
 Underfull \hbox (badness 3635) in paragraph at lines 11--20
 [][]\TU/TeXGyreTermes(0)/m/n/12 Digitalschool.club[][].  []\TU/Laksaman(0)/m/n/12 พื้น ฐาน การ ใช้ โมดูล []\TU/TeXGyreTermes(0)/m/n/12 tkinter []\TU/Laksaman(0)/m/n/12 สำหรับ []\TU/TeXGyreTermes(0)/m/n/12 graphical [][]user [][]interface.
  []
@@ -1589,7 +1599,7 @@ Underfull \hbox (badness 7047) in paragraph at lines 95--103
 \TU/Inconsolata(0)/m/n/12 en.wikipedia.org/ w/ index.php? title=Raspberry_Pi&oldid=1126331603$$[][][][]\TU/TeXGyreTermes(0)/m/n/12 , []\TU/Laksaman(0)/m/n/12 ธัน-
  []
 
-) [23
+) [24
 
 
 
@@ -1599,7 +1609,7 @@ LaTeX Font Info:    Font shape `TU/Laksaman(0)/m/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
 LaTeX Font Info:    Font shape `TU/Laksaman(0)/b/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
- [24
+ [25
 
 ]
 \openout2 = `chapters/appendix.aux'.
@@ -1616,15 +1626,15 @@ File: pic/rpi_back.jpg Graphic file (type bmp)
 <pic/rpi_back.jpg>
 File: pic/rpi.jpg Graphic file (type bmp)
 <pic/rpi.jpg>
-[25
+[26
 
 
 
 ]
 
-LaTeX Warning: Text page 26 contains only floats.
+LaTeX Warning: Text page 27 contains only floats.
 
-[26]
+[27]
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 File: pic/comfirm_page.png Graphic file (type bmp)
@@ -1633,7 +1643,7 @@ File: pic/pin_correct.png Graphic file (type bmp)
 <pic/pin_correct.png>
 File: pic/pin_incorrect.png Graphic file (type bmp)
 <pic/pin_incorrect.png>
- [27] [28]
+ [28] [29]
 ภาคผนวก ข.
 
 Overfull \hbox (1.85573pt too wide) in paragraph at lines 119--121
@@ -1650,14 +1660,14 @@ Overfull \hbox (12.32167pt too wide) in paragraph at lines 138--139
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
-[29
+[30
 
 ]
 Overfull \hbox (1.72578pt too wide) in paragraph at lines 163--164
 []\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
  []
 
-[30]
+[31]
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 
@@ -1667,11 +1677,11 @@ Overfull \hbox (21.97665pt too wide) in paragraph at lines 214--215
 
 File: pic/server_start.png Graphic file (type bmp)
 <pic/server_start.png>
-[31] [32]
+[32] [33]
 ภาคผนวก ฃ.
 File: pic/PDPA.png Graphic file (type bmp)
 <pic/PDPA.png>
-) [33
+) [34
 
 ]
 Vita
@@ -1682,7 +1692,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
 
-[34
+[35
 
 
 
@@ -1791,4 +1801,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (44 pages, 643948 bytes).
+Output written on myReport.xdv (45 pages, 662160 bytes).

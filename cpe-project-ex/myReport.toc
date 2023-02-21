@@ -56,23 +56,23 @@
 \contentsline {section}{\numberline {5.1}สรุปผล}{22}{section.5.1}%
 \contentsline {section}{\numberline {5.2}ปัญหาที่พบและแนวทางการแก้ไข}{22}{section.5.2}%
 \contentsline {section}{\numberline {5.3}ข้อเสนอแนะและแนวทางการพัฒนาต่อ }{22}{section.5.3}%
-\contentsline {chapter}{บรรณานุกรม}{23}{section*.10}%
-\contentsline {chapter}{\numberline {ก}อุปกรณ์ต้นแบบและการแสดงผลบนหน้าจอ}{25}{appendix.A}%
-\contentsline {section}{\numberline {ก.1}รูปอุปกรณ์ที่ใช้ในการตรวจจับภาพใบหน้าและรับคำสั่งยืนยัน}{25}{section.A.1}%
-\contentsline {section}{\numberline {ก.2}รูปภาพการแสดงผลบนหน้าจอ}{27}{section.A.2}%
-\contentsline {chapter}{\numberline {ข}คู่มือการใช้งานระบบ}{29}{appendix.B}%
-\contentsline {section}{\numberline {ข.1}คู่มือการติดตั้งโปรแกรมเพื่อตรวจจับใบหน้าบน Raspberry Pi}{29}{section.B.1}%
-\contentsline {subsection}{\numberline {ข.1.1}คู่มือการติดตั้ง OpenCV บน Raspberry Pi}{29}{subsection.B.1.1}%
-\contentsline {subsection}{\numberline {ข.1.2}คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}{29}{subsection.B.1.2}%
-\contentsline {subsection}{\numberline {ข.1.3}คู่มือการติดตั้ง Mediapipe library บน Raspberry Pi}{29}{subsection.B.1.3}%
-\contentsline {subsection}{\numberline {ข.1.4}คู่มือการติดตั้ง Tkinter library บน Raspberry Pi}{30}{subsection.B.1.4}%
-\contentsline {section}{\numberline {ข.2}คู่มือการติดตั้งโปรแกรมเพื่อระบุตัวตนใบหน้าบน Server}{30}{section.B.2}%
-\contentsline {subsection}{\numberline {ข.2.1}คู่มือการติดตั้ง Python บน Windows}{30}{subsection.B.2.1}%
-\contentsline {subsection}{\numberline {ข.2.2}คู่มือการติดตั้ง Flask framework}{30}{subsection.B.2.2}%
-\contentsline {subsection}{\numberline {ข.2.3}คู่มือการติดตั้ง OpenCV บน Windows}{30}{subsection.B.2.3}%
-\contentsline {subsection}{\numberline {ข.2.4}คู่มือการติดตั้ง Scikit learn บน Windows}{30}{subsection.B.2.4}%
-\contentsline {section}{\numberline {ข.3}คู่มือการใช้งานการตรวจจับใบหน้า}{31}{section.B.3}%
-\contentsline {section}{\numberline {ข.4}คู่มือการใช้งานการระบุตัวตนด้วยใบหน้า}{31}{section.B.4}%
-\contentsline {chapter}{\numberline {ฃ}เอกสารเกี่ยวกับข้อมูลส่วนบุคคล}{33}{appendix.C}%
-\contentsline {section}{\numberline {ฃ.1}หนังสือขอความยินยอม เก็บรวบรวม ใช้ และเปิดเผยข้อมูลส่วนบุคคล}{33}{section.C.1}%
-\contentsline {chapter}{ประวัติผู้เขียน}{34}{appendix*.12}%
+\contentsline {chapter}{บรรณานุกรม}{24}{section*.10}%
+\contentsline {chapter}{\numberline {ก}อุปกรณ์ต้นแบบและการแสดงผลบนหน้าจอ}{26}{appendix.A}%
+\contentsline {section}{\numberline {ก.1}รูปอุปกรณ์ที่ใช้ในการตรวจจับภาพใบหน้าและรับคำสั่งยืนยัน}{26}{section.A.1}%
+\contentsline {section}{\numberline {ก.2}รูปภาพการแสดงผลบนหน้าจอ}{28}{section.A.2}%
+\contentsline {chapter}{\numberline {ข}คู่มือการใช้งานระบบ}{30}{appendix.B}%
+\contentsline {section}{\numberline {ข.1}คู่มือการติดตั้งโปรแกรมเพื่อตรวจจับใบหน้าบน Raspberry Pi}{30}{section.B.1}%
+\contentsline {subsection}{\numberline {ข.1.1}คู่มือการติดตั้ง OpenCV บน Raspberry Pi}{30}{subsection.B.1.1}%
+\contentsline {subsection}{\numberline {ข.1.2}คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}{30}{subsection.B.1.2}%
+\contentsline {subsection}{\numberline {ข.1.3}คู่มือการติดตั้ง Mediapipe library บน Raspberry Pi}{30}{subsection.B.1.3}%
+\contentsline {subsection}{\numberline {ข.1.4}คู่มือการติดตั้ง Tkinter library บน Raspberry Pi}{31}{subsection.B.1.4}%
+\contentsline {section}{\numberline {ข.2}คู่มือการติดตั้งโปรแกรมเพื่อระบุตัวตนใบหน้าบน Server}{31}{section.B.2}%
+\contentsline {subsection}{\numberline {ข.2.1}คู่มือการติดตั้ง Python บน Windows}{31}{subsection.B.2.1}%
+\contentsline {subsection}{\numberline {ข.2.2}คู่มือการติดตั้ง Flask framework}{31}{subsection.B.2.2}%
+\contentsline {subsection}{\numberline {ข.2.3}คู่มือการติดตั้ง OpenCV บน Windows}{31}{subsection.B.2.3}%
+\contentsline {subsection}{\numberline {ข.2.4}คู่มือการติดตั้ง Scikit learn บน Windows}{31}{subsection.B.2.4}%
+\contentsline {section}{\numberline {ข.3}คู่มือการใช้งานการตรวจจับใบหน้า}{32}{section.B.3}%
+\contentsline {section}{\numberline {ข.4}คู่มือการใช้งานการระบุตัวตนด้วยใบหน้า}{32}{section.B.4}%
+\contentsline {chapter}{\numberline {ฃ}เอกสารเกี่ยวกับข้อมูลส่วนบุคคล}{34}{appendix.C}%
+\contentsline {section}{\numberline {ฃ.1}หนังสือขอความยินยอม เก็บรวบรวม ใช้ และเปิดเผยข้อมูลส่วนบุคคล}{34}{section.C.1}%
+\contentsline {chapter}{ประวัติผู้เขียน}{35}{appendix*.12}%
