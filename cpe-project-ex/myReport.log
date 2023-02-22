@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  21 FEB 2023 20:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  22 FEB 2023 16:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1186,9 +1186,9 @@ LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/n' will be
 ] (myReport.toc
 \thai@year=\count324
 LaTeX Font Info:    Font shape `TU/Laksaman(0)/b/n' will be
-(Font)              scaled to size 10.12134pt on input line 8.
+(Font)              scaled to size 10.12134pt on input line 6.
 LaTeX Font Info:    Font shape `TU/TeXGyreTermes(0)/b/n' will be
-(Font)              scaled to size 11.21906pt on input line 8.
+(Font)              scaled to size 11.21906pt on input line 6.
  [5
 
 
@@ -1197,21 +1197,7 @@ LaTeX Font Info:    Font shape `TU/TeXGyreTermes(0)/b/n' will be
 \tf@toc=\write4
 \openout4 = `myReport.toc'.
 
- [6] (myReport.lof)
-\tf@lof=\write5
-\openout5 = `myReport.lof'.
-
- [7
-
-
-] (myReport.lot)
-\tf@lot=\write6
-\openout6 = `myReport.lot'.
-
- [8
-
-
-])
+ [6])
 \openout2 = `chapters/intro.aux'.
 
  (chapters/intro.tex
@@ -1545,18 +1531,13 @@ File: pic/test_graph.png Graphic file (type bmp)
  (chapters/conclusion.tex
 บทที่ 5.
 
-Overfull \hbox (5.91298pt too wide) in paragraph at lines 14--15
+Overfull \hbox (5.91298pt too wide) in paragraph at lines 15--17
 \TU/Laksaman(0)/m/n/12 บุคคล จะ ทำให้ รูปภาพ ใบหน้า บุคคล ไม่ ชัด ส่ง ผล ให้ ผลลัพธ์ ของ รูปภาพ ที่ ส่ง ไป ระบุ ตัว ตน มี ความ ผิด พลาด
  []
 
 
-Overfull \hbox (0.13078pt too wide) in paragraph at lines 18--19
+Overfull \hbox (0.13078pt too wide) in paragraph at lines 20--21
 []\TU/Laksaman(0)/m/n/12 ใน ขั้น ตอน การ กด ปุ่ม กด ตัวเลข เพื่อ ยืนยัน ตัว ตน เมื่อ ผู้ ใช้ กด ปุ่ม ค้าง จะ ทำให้ เลข ยืนยัน ตัว ตน จะ ผิด พลาด
- []
-
-
-Overfull \hbox (0.18709pt too wide) in paragraph at lines 37--38
-[]\TU/Laksaman(0)/m/n/12 ควร สำรวจ พื้นที่ ติด ตั้ง มอ ดู ล กล้อง เนื่องจาก ต้อง พิจารณา สภาพ แสง ของ พื้นที่ ติด ตั้ง เพื่อ พัฒนาการ ปรับ
  []
 
 [22
@@ -1564,7 +1545,12 @@ Overfull \hbox (0.18709pt too wide) in paragraph at lines 37--38
 
 
 
-]) [23] (myReport.bbl
+]
+Overfull \hbox (0.18709pt too wide) in paragraph at lines 39--40
+[]\TU/Laksaman(0)/m/n/12 ควร สำรวจ พื้นที่ ติด ตั้ง มอ ดู ล กล้อง เนื่องจาก ต้อง พิจารณา สภาพ แสง ของ พื้นที่ ติด ตั้ง เพื่อ พัฒนาการ ปรับ
+ []
+
+) [23] (myReport.bbl
 Underfull \hbox (badness 3635) in paragraph at lines 11--20
 [][]\TU/TeXGyreTermes(0)/m/n/12 Digitalschool.club[][].  []\TU/Laksaman(0)/m/n/12 พื้น ฐาน การ ใช้ โมดูล []\TU/TeXGyreTermes(0)/m/n/12 tkinter []\TU/Laksaman(0)/m/n/12 สำหรับ []\TU/TeXGyreTermes(0)/m/n/12 graphical [][]user [][]interface.
  []
@@ -1790,15 +1776,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 7751247EDE6D6C0D760354A3FF7844D9;19876.
+(rerunfilecheck)             Checksum: 0E43C0CBE36B1595FF09FA2C6BB65ACD;19624.
  ) 
 Here is how much of TeX's memory you used:
- 19876 strings out of 410432
- 379002 string characters out of 2810511
- 956222 words of memory out of 3000000
- 40741 multiletter control sequences out of 15000+600000
+ 19864 strings out of 410432
+ 378862 string characters out of 2810511
+ 954886 words of memory out of 3000000
+ 40735 multiletter control sequences out of 15000+600000
  473819 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (45 pages, 662160 bytes).
+Output written on myReport.xdv (43 pages, 623856 bytes).

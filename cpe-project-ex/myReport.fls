@@ -967,14 +967,6 @@ INPUT .\myReport.toc
 INPUT myReport.toc
 INPUT myReport.toc
 OUTPUT myReport.toc
-INPUT .\myReport.lof
-INPUT myReport.lof
-INPUT myReport.lof
-OUTPUT myReport.lof
-INPUT .\myReport.lot
-INPUT myReport.lot
-INPUT myReport.lot
-OUTPUT myReport.lot
 INPUT .\chapters\intro.tex
 INPUT .\chapters\intro.tex
 INPUT .\chapters\intro.tex
