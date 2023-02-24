@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  22 FEB 2023 16:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  24 FEB 2023 18:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1632,24 +1632,19 @@ File: pic/pin_incorrect.png Graphic file (type bmp)
  [28] [29]
 ภาคผนวก ข.
 
-Overfull \hbox (1.85573pt too wide) in paragraph at lines 119--121
-\TU/Laksaman(0)/m/n/12 โปรแกรม ของ โครง งาน นี้ สามารถ ดาวน์โหลด ได้ จาก [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.example.com/ test_[]\TU/TlwgTypist(0)/m/n/12 ทดสอบ[]\TU/Inconsolata(0)/m/n/12 _url$$[][]
- []
-
-
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 126--127
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 125--126
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
 
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 138--139
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 137--138
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
 [30
 
 ]
-Overfull \hbox (1.72578pt too wide) in paragraph at lines 163--164
+Overfull \hbox (1.72578pt too wide) in paragraph at lines 162--163
 []\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
  []
 
@@ -1657,7 +1652,7 @@ Overfull \hbox (1.72578pt too wide) in paragraph at lines 163--164
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 
-Overfull \hbox (21.97665pt too wide) in paragraph at lines 214--215
+Overfull \hbox (21.97665pt too wide) in paragraph at lines 213--214
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ protonnote/ backend- graduate- project.git$$[][] 
  []
 
@@ -1787,4 +1782,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 623856 bytes).
+Output written on myReport.xdv (43 pages, 622996 bytes).
