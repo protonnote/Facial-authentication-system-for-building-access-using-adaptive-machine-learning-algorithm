@@ -3,23 +3,42 @@
 
 \ifproject
 \begin{abstractTH}
-เขียนบทคัดย่อของโครงงานที่นี่
+% เขียนบทคัดย่อของโครงงานที่นี่
 
-การเขียนรายงานเป็นส่วนหนึ่งของการทำโครงงานวิศวกรรมคอมพิวเตอร์
-เพื่อทบทวนทฤษฎีที่เกี่ยวข้อง อธิบายขั้นตอนวิธีแก้ปัญหาเชิงวิศวกรรม และวิเคราะห์และสรุปผลการทดลองอุปกรณ์ และระบบต่าง ๆ
-\enskip อย่างไรก็ดี การสร้างรูปเล่มรายงานให้ถูกรูปแบบนั้นเป็นขั้นตอนที่ยุ่งยาก
-แม้ว่าจะมีต้นแบบสำหรับใช้ในโปรแกรม Microsoft Word แล้วก็ตาม
-แต่นักศึกษาส่วนใหญ่ยังคงค้นพบว่าการใช้งานมีความซับซ้อน และเกิดความผิดพลาดในการจัดรูปแบบ กำหนดเลขหัวข้อ และสร้างสารบัญอยู่
-\enskip ภาควิชาวิศวกรรมคอมพิวเตอร์จึงได้จัดทำต้นแบบรูปเล่มรายงานโดยใช้ระบบจัดเตรียมเอกสาร
-\LaTeX{} เพื่อช่วยให้นักศึกษาเขียนรายงานได้อย่างสะดวกและรวดเร็วมากยิ่งขึ้น
+% การเขียนรายงานเป็นส่วนหนึ่งของการทำโครงงานวิศวกรรมคอมพิวเตอร์
+% เพื่อทบทวนทฤษฎีที่เกี่ยวข้อง อธิบายขั้นตอนวิธีแก้ปัญหาเชิงวิศวกรรม และวิเคราะห์และสรุปผลการทดลองอุปกรณ์ และระบบต่าง ๆ
+% \enskip อย่างไรก็ดี การสร้างรูปเล่มรายงานให้ถูกรูปแบบนั้นเป็นขั้นตอนที่ยุ่งยาก
+% แม้ว่าจะมีต้นแบบสำหรับใช้ในโปรแกรม Microsoft Word แล้วก็ตาม
+% แต่นักศึกษาส่วนใหญ่ยังคงค้นพบว่าการใช้งานมีความซับซ้อน และเกิดความผิดพลาดในการจัดรูปแบบ กำหนดเลขหัวข้อ และสร้างสารบัญอยู่
+% \enskip ภาควิชาวิศวกรรมคอมพิวเตอร์จึงได้จัดทำต้นแบบรูปเล่มรายงานโดยใช้ระบบจัดเตรียมเอกสาร
+% \LaTeX{} เพื่อช่วยให้นักศึกษาเขียนรายงานได้อย่างสะดวกและรวดเร็วมากยิ่งขึ้น
+
+การระบุตัวตนด้วยการใช้รูปภาพใบหน้าบุคคลเพื่อเข้าสู่สถานที่เป็นหนึ่งในรูปแบบการยืนยันตัวตนที่ช่วยลดการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา (COVID-19)
+การใช้รูปภาพใบหน้าบุคคลนั้นยังมีจุดอ่อนเมื่อใบหน้าบุคคลมีการเปลี่ยนแปลง เช่น หนวดเครายาวขึ้น สวมแว่นตา เป็นต้น จึงมีการใช้กลวิธีการเรียนรู้แบบต่อเนื่องเพื่อนำรูปภาพใบหน้าใหม่ไปทำการเรียนรู้
+เพื่อลดจุดอ่อนของการใช้รูปภาพใบหน้าบุคคล ทางเข้าสถานที่นั้นมีพื้นที่ในการติดตั้งน้อยในโครงงานนี้จึงเลือกใช้ Raspberry Pi และในโปรเจกต์นี้ได้ทำการติดตั้งที่ทางเข้าห้องแลป OASYS 
+เนื่องจาก Raspberry Pi นั้นมีประสิทธิภาพไม่เพียงพอต่อการระบุตัวตน หรือ การเรียนรูปรูปภาพใบหน้าบุคคล ในโปรเจกต์นี้จึงใช้ Raspberry Pi ทำหน้าที่ตรวจจับใบหน้า และใช้เซิร์ฟเวอร์ในการระบุตัวตน 
+และเรียนรู้รูปภาพใบหน้าบุคคล โดยแบบจำลองการตรวจจับใบหน้าบน Raspberry Pi นั้นสามารถที่จะตรวจจับใบหน้าบุคคลได้ดี ซึ่งเวลาเฉลี่ยในการแสดงผลการระบุตัวตนหลังจากการตรวจจับใบหน้านั้นน้อยกว่า 500 มิลลิวินาที 
+และยังมีการยืนยันตัวตนด้วยรหัสอีกขึ้นตอนเพื่อลดความผิดพลาดในการระบุตัวตน ทำให้ผู้ใช้งานยังได้รับความสะดวก ปลอดภัยจากโรคติดเชื้อไวรัสโคโรนา (COVID-19) จากการใช้งาน และยังมีความแม่นยำ
+
 \end{abstractTH}
 
 \begin{abstract}
-The abstract would be placed here. It usually does not exceed 350 words
-long (not counting the heading), and must not take up more than one (1) page
-(even if fewer than 350 words long).
+% The abstract would be placed here. It usually does not exceed 350 words
+% long (not counting the heading), and must not take up more than one (1) page
+% (even if fewer than 350 words long).
 
-Make sure your abstract sits inside the \texttt{abstract} environment.
+% Make sure your abstract sits inside the \texttt{abstract} environment.
+
+Using facial recognition technology to identify individuals and grant access to a location is one form of identity verification 
+that helps reduce the spread of COVID-19. However, using facial images has its weaknesses when a person's face changes, such as 
+growing a beard or wearing glasses. Therefore, continuous learning algorithms are used to improve the accuracy of new facial images. 
+Due to limited space, the Raspberry Pi was chosen for this project, and it was installed at the entrance of the OASYS lab. Raspberry Pi's 
+performance is insufficient for facial recognition and learning images, so in this project, it was used to detect faces, and a server was used 
+for identity verification and image learning. The facial detection model on the Raspberry Pi works well and takes less than 500 milliseconds on 
+average to verify identity after detecting a face. Additionally, there is a confirmation process to reduce the likelihood of identity errors, which 
+makes it convenient and safe for users to use and helps prevent the spread of COVID-19.
+
+
 \end{abstract}
 
 \iffalse

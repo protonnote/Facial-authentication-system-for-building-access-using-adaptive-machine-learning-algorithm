@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  24 FEB 2023 18:07
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  25 FEB 2023 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1160,23 +1160,10 @@ LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/m/n' will be
 
 ]
 Abstract
-LaTeX Font Info:    Font shape `TU/Laksaman(0)/m/n' will be
-(Font)              scaled to size 7.48979pt on input line 14.
-LaTeX Font Info:    Font shape `TU/TeXGyreTermes(0)/m/n' will be
-(Font)              scaled to size 8.50508pt on input line 14.
-
-Overfull \hbox (13.81294pt too wide) in paragraph at lines 8--15
-\TU/Laksaman(0)/m/n/12 อธิบาย ขั้น ตอน วิธี แก้ ปัญหา เชิง วิศวกรรม และ วิเคราะห์ และ สรุป ผล การ ทดลอง อุปกรณ์ และ ระบบ ต่าง ๆ  อย่างไร
- []
-
 [2
 
 ]
 Abstract
-LaTeX Font Info:    Font shape `TU/TlwgTypist(0)/m/n' will be
-(Font)              scaled to size 12.40283pt on input line 22.
-LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/n' will be
-(Font)              scaled to size 11.31738pt on input line 22.
 [3
 
 
@@ -1551,6 +1538,11 @@ Overfull \hbox (0.18709pt too wide) in paragraph at lines 39--40
  []
 
 ) [23] (myReport.bbl
+LaTeX Font Info:    Font shape `TU/TlwgTypist(0)/m/n' will be
+(Font)              scaled to size 12.40283pt on input line 15.
+LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/n' will be
+(Font)              scaled to size 11.31738pt on input line 15.
+
 Underfull \hbox (badness 3635) in paragraph at lines 11--20
 [][]\TU/TeXGyreTermes(0)/m/n/12 Digitalschool.club[][].  []\TU/Laksaman(0)/m/n/12 พื้น ฐาน การ ใช้ โมดูล []\TU/TeXGyreTermes(0)/m/n/12 tkinter []\TU/Laksaman(0)/m/n/12 สำหรับ []\TU/TeXGyreTermes(0)/m/n/12 graphical [][]user [][]interface.
  []
@@ -1774,12 +1766,12 @@ Package rerunfilecheck Info: File `myReport.out' has not changed.
 (rerunfilecheck)             Checksum: 0E43C0CBE36B1595FF09FA2C6BB65ACD;19624.
  ) 
 Here is how much of TeX's memory you used:
- 19864 strings out of 410432
- 378862 string characters out of 2810511
- 954886 words of memory out of 3000000
- 40735 multiletter control sequences out of 15000+600000
- 473819 words of font info for 123 fonts, out of 8000000 for 9000
+ 19860 strings out of 410432
+ 378688 string characters out of 2810511
+ 955886 words of memory out of 3000000
+ 40733 multiletter control sequences out of 15000+600000
+ 473803 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,17n,150p,708b,567s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 102i,17n,150p,708b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 622996 bytes).
+Output written on myReport.xdv (43 pages, 636144 bytes).
