@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  26 FEB 2023 15:58
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 00:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1505,14 +1505,17 @@ Overfull \hbox (17.03096pt too wide) detected at line 36
 
 
 ]
-File: pic/Note_percent.png Graphic file (type bmp)
-<pic/Note_percent.png>
-File: pic/Time.png Graphic file (type bmp)
-<pic/Time.png>
+File: pic/acc_note.png Graphic file (type bmp)
+<pic/acc_note.png>
+File: pic/acc_all.png Graphic file (type bmp)
+<pic/acc_all.png>
  [19]
+File: pic/Time_1.png Graphic file (type bmp)
+<pic/Time_1.png>
+ [20]
 File: pic/test_graph.png Graphic file (type bmp)
 <pic/test_graph.png>
- [20]) [21]
+) [21]
 \openout2 = `chapters/conclusion.aux'.
 
  (chapters/conclusion.tex
@@ -1766,12 +1769,12 @@ Package rerunfilecheck Info: File `myReport.out' has not changed.
 (rerunfilecheck)             Checksum: 0E43C0CBE36B1595FF09FA2C6BB65ACD;19624.
  ) 
 Here is how much of TeX's memory you used:
- 19860 strings out of 410432
- 378688 string characters out of 2810511
- 954886 words of memory out of 3000000
- 40733 multiletter control sequences out of 15000+600000
+ 19869 strings out of 410432
+ 378843 string characters out of 2810511
+ 954990 words of memory out of 3000000
+ 40741 multiletter control sequences out of 15000+600000
  473803 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 636348 bytes).
+Output written on myReport.xdv (43 pages, 643588 bytes).
