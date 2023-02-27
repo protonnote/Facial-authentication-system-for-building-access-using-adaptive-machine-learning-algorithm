@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 01:04
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 01:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1472,11 +1472,12 @@ Overfull \hbox (9.42746pt too wide) in paragraph at lines 89--95
 [14] [15]
 File: pic/dataset.png Graphic file (type bmp)
 <pic/dataset.png>
+ [16]
 File: pic/pin_correct.png Graphic file (type bmp)
 <pic/pin_correct.png>
 File: pic/pin_incorrect.png Graphic file (type bmp)
 <pic/pin_incorrect.png>
- [16]) [17]
+) [17]
 \openout2 = `chapters/eval.aux'.
 
  (chapters/eval.tex
@@ -1776,4 +1777,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 643648 bytes).
+Output written on myReport.xdv (43 pages, 643644 bytes).
