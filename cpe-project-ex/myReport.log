@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 00:22
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 01:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1472,12 +1472,11 @@ Overfull \hbox (9.42746pt too wide) in paragraph at lines 89--95
 [14] [15]
 File: pic/dataset.png Graphic file (type bmp)
 <pic/dataset.png>
- [16]
 File: pic/pin_correct.png Graphic file (type bmp)
 <pic/pin_correct.png>
 File: pic/pin_incorrect.png Graphic file (type bmp)
 <pic/pin_incorrect.png>
-) [17]
+ [16]) [17]
 \openout2 = `chapters/eval.aux'.
 
  (chapters/eval.tex
@@ -1766,15 +1765,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 0E43C0CBE36B1595FF09FA2C6BB65ACD;19624.
+(rerunfilecheck)             Checksum: 269C3ED01F05F146F64DF6D610C2086A;19610.
  ) 
 Here is how much of TeX's memory you used:
- 19869 strings out of 410432
- 378843 string characters out of 2810511
- 954990 words of memory out of 3000000
- 40741 multiletter control sequences out of 15000+600000
+ 19870 strings out of 410432
+ 378856 string characters out of 2810511
+ 954983 words of memory out of 3000000
+ 40742 multiletter control sequences out of 15000+600000
  473803 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 643588 bytes).
+Output written on myReport.xdv (43 pages, 643648 bytes).

@@ -40,11 +40,11 @@
 \contentsline {subsection}{\numberline {3.1.1}มอดูลกล้อง (Camera Module)}{14}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}การส่งข้อมูลไปยังเซิร์ฟเวอร์}{14}{subsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.1.3}การแสดงผลการระบุตัวตน}{14}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}เซิร์ฟเวอร์ (Server)}{15}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}การระบุตัวตน}{15}{subsection.3.1.5}%
-\contentsline {subsection}{\numberline {3.1.6}การจัดเก็บรูปภาพใบหน้า}{16}{subsection.3.1.6}%
-\contentsline {subsection}{\numberline {3.1.7}การเรียนรู้รูปภาพ}{16}{subsection.3.1.7}%
-\contentsline {subsection}{\numberline {3.1.8}การตรวจสอบรหัสยืนยันตัวตน}{16}{subsection.3.1.8}%
+\contentsline {section}{\numberline {3.2}เซิร์ฟเวอร์ (Server)}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}การระบุตัวตน}{15}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}การจัดเก็บรูปภาพใบหน้า}{16}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}การตรวจสอบรหัสยืนยันตัวตน}{16}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}การเรียนรู้รูปภาพ}{16}{section.3.3}%
 \contentsline {chapter}{\numberline {4}การทดลองและผลลัพธ์}{18}{chapter.4}%
 \contentsline {section}{\numberline {4.1}ความแม่นยำของการตรวจจับใบหน้า}{18}{section.4.1}%
 \contentsline {section}{\numberline {4.2}ความแม่นยำของการระบุตัวตนด้วยใบหน้าในแต่ละวัน}{19}{section.4.2}%
