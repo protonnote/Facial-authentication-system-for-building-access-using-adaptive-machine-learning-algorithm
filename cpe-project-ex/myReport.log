@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 01:20
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 14:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1450,7 +1450,7 @@ File: pic/openface.jpg Graphic file (type bmp)
 File: pic/overview.png Graphic file (type bmp)
 <pic/overview.png>
 
-Overfull \hbox (10.57535pt too wide) in paragraph at lines 28--29
+Overfull \hbox (10.57535pt too wide) in paragraph at lines 30--31
  [] 
  []
 
@@ -1465,7 +1465,7 @@ File: pic/camera_module.png Graphic file (type bmp)
 File: pic/result_page_blind.png Graphic file (type bmp)
 <pic/result_page_blind.png>
 
-Overfull \hbox (9.42746pt too wide) in paragraph at lines 89--95
+Overfull \hbox (9.42746pt too wide) in paragraph at lines 91--97
 \TU/Laksaman(0)/m/n/12 ทำ หน้าที่ ใน การ เป็น เว็ป เซอร์วิส []\TU/TeXGyreTermes(0)/m/n/12 (Web [][]service) []\TU/Laksaman(0)/m/n/12 ใน การ รับ รูปภาพ เพื่อ นำ รูปภาพ มาระ บุ ตัว ตน โดย ใช้ []\TU/TeXGyreTermes(0)/m/n/12 OpenCV
  []
 
@@ -1487,35 +1487,57 @@ Overfull \hbox (0.87216pt too wide) in paragraph at lines 8--11
 \TU/Laksaman(0)/m/n/12 ใน บท นี้ จะ ทดสอบ ระบบ การ ยืนยัน ตัว ตน ด้วย การ ใช้ ภาพ ใบหน้า บุคคล ซึ่ง มี การ เก็บ ข้อมูล รูปภาพ ใบหน้า บุคคล
  []
 
-
-Overfull \hbox (2.45395pt too wide) in paragraph at lines 14--16
-\TU/Laksaman(0)/m/n/12 การ ทดสอบ นี้ จะ เป็นการ ทดสอบ เพื่อ วัดผล ความ แม่นยำ ใน การ ตรวจ จับ ภาพ ใบหน้า บุคคล โดย มี รูปภาพ ใบหน้า
- []
-
-File: pic/face_result.png Graphic file (type bmp)
-<pic/face_result.png>
-
-Overfull \hbox (17.03096pt too wide) detected at line 36
-[][][][][][][][][][] [] [] [] [] [] [][][][][][]
- []
-
+File: pic/overall_module.png Graphic file (type bmp)
+<pic/overall_module.png>
+File: pic/camera.jpg Graphic file (type bmp)
+<pic/camera.jpg>
+File: pic/rpi_top.jpg Graphic file (type bmp)
+<pic/rpi_top.jpg>
+File: pic/rpi_back.jpg Graphic file (type bmp)
+<pic/rpi_back.jpg>
+File: pic/rpi.jpg Graphic file (type bmp)
+<pic/rpi.jpg>
 [18
 
 
 
 
 ]
+
+LaTeX Warning: Text page 19 contains only floats.
+
+[19]
+File: pic/main_page.png Graphic file (type bmp)
+<pic/main_page.png>
+File: pic/comfirm_page.png Graphic file (type bmp)
+<pic/comfirm_page.png>
+File: pic/pin_correct.png Graphic file (type bmp)
+<pic/pin_correct.png>
+File: pic/pin_incorrect.png Graphic file (type bmp)
+<pic/pin_incorrect.png>
+ [20]
+Overfull \hbox (2.45395pt too wide) in paragraph at lines 101--103
+\TU/Laksaman(0)/m/n/12 การ ทดสอบ นี้ จะ เป็นการ ทดสอบ เพื่อ วัดผล ความ แม่นยำ ใน การ ตรวจ จับ ภาพ ใบหน้า บุคคล โดย มี รูปภาพ ใบหน้า
+ []
+
+File: pic/face_result.png Graphic file (type bmp)
+<pic/face_result.png>
+[21]
+Overfull \hbox (17.03096pt too wide) detected at line 123
+[][][][][][][][][][] [] [] [] [] [] [][][][][][]
+ []
+
 File: pic/acc_note.png Graphic file (type bmp)
 <pic/acc_note.png>
 File: pic/acc_all.png Graphic file (type bmp)
 <pic/acc_all.png>
- [19]
+[22]
 File: pic/Time_1.png Graphic file (type bmp)
 <pic/Time_1.png>
- [20]
+ [23]
 File: pic/test_graph.png Graphic file (type bmp)
 <pic/test_graph.png>
-) [21]
+) [24]
 \openout2 = `chapters/conclusion.aux'.
 
  (chapters/conclusion.tex
@@ -1530,7 +1552,7 @@ Overfull \hbox (0.13078pt too wide) in paragraph at lines 20--21
 []\TU/Laksaman(0)/m/n/12 ใน ขั้น ตอน การ กด ปุ่ม กด ตัวเลข เพื่อ ยืนยัน ตัว ตน เมื่อ ผู้ ใช้ กด ปุ่ม ค้าง จะ ทำให้ เลข ยืนยัน ตัว ตน จะ ผิด พลาด
  []
 
-[22
+[25
 
 
 
@@ -1540,7 +1562,7 @@ Overfull \hbox (0.18709pt too wide) in paragraph at lines 39--40
 []\TU/Laksaman(0)/m/n/12 ควร สำรวจ พื้นที่ ติด ตั้ง มอ ดู ล กล้อง เนื่องจาก ต้อง พิจารณา สภาพ แสง ของ พื้นที่ ติด ตั้ง เพื่อ พัฒนาการ ปรับ
  []
 
-) [23] (myReport.bbl
+) [26] (myReport.bbl
 LaTeX Font Info:    Font shape `TU/TlwgTypist(0)/m/n' will be
 (Font)              scaled to size 12.40283pt on input line 15.
 LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/n' will be
@@ -1580,7 +1602,7 @@ Underfull \hbox (badness 7047) in paragraph at lines 95--103
 \TU/Inconsolata(0)/m/n/12 en.wikipedia.org/ w/ index.php? title=Raspberry_Pi&oldid=1126331603$$[][][][]\TU/TeXGyreTermes(0)/m/n/12 , []\TU/Laksaman(0)/m/n/12 ธัน-
  []
 
-) [24
+) [27
 
 
 
@@ -1590,74 +1612,47 @@ LaTeX Font Info:    Font shape `TU/Laksaman(0)/m/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
 LaTeX Font Info:    Font shape `TU/Laksaman(0)/b/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
- [25
+ [28
 
 ]
 \openout2 = `chapters/appendix.aux'.
 
  (chapters/appendix.tex
 ภาคผนวก ก.
-File: pic/overall_module.png Graphic file (type bmp)
-<pic/overall_module.png>
-File: pic/camera.jpg Graphic file (type bmp)
-<pic/camera.jpg>
-File: pic/rpi_top.jpg Graphic file (type bmp)
-<pic/rpi_top.jpg>
-File: pic/rpi_back.jpg Graphic file (type bmp)
-<pic/rpi_back.jpg>
-File: pic/rpi.jpg Graphic file (type bmp)
-<pic/rpi.jpg>
-[26
 
-
-
-]
-
-LaTeX Warning: Text page 27 contains only floats.
-
-[27]
-File: pic/main_page.png Graphic file (type bmp)
-<pic/main_page.png>
-File: pic/comfirm_page.png Graphic file (type bmp)
-<pic/comfirm_page.png>
-File: pic/pin_correct.png Graphic file (type bmp)
-<pic/pin_correct.png>
-File: pic/pin_incorrect.png Graphic file (type bmp)
-<pic/pin_incorrect.png>
- [28] [29]
-ภาคผนวก ข.
-
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 125--126
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 38--39
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
 
-Overfull \hbox (12.32167pt too wide) in paragraph at lines 137--138
+Overfull \hbox (12.32167pt too wide) in paragraph at lines 50--51
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
-[30
+[29
+
+
 
 ]
-Overfull \hbox (1.72578pt too wide) in paragraph at lines 162--163
+Overfull \hbox (1.72578pt too wide) in paragraph at lines 75--76
 []\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
  []
 
-[31]
+[30]
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 
-Overfull \hbox (21.97665pt too wide) in paragraph at lines 213--214
+Overfull \hbox (21.97665pt too wide) in paragraph at lines 126--127
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ protonnote/ backend- graduate- project.git$$[][] 
  []
 
 File: pic/server_start.png Graphic file (type bmp)
 <pic/server_start.png>
-[32] [33]
-ภาคผนวก ฃ.
+[31] [32]
+ภาคผนวก ข.
 File: pic/PDPA.png Graphic file (type bmp)
 <pic/PDPA.png>
-) [34
+) [33
 
 ]
 Vita
@@ -1668,7 +1663,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
 
-[35
+[34
 
 
 
@@ -1766,15 +1761,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 269C3ED01F05F146F64DF6D610C2086A;19610.
+(rerunfilecheck)             Checksum: A0B56C42E88CD7C455F18948A51E3F88;19751.
  ) 
 Here is how much of TeX's memory you used:
  19870 strings out of 410432
- 378856 string characters out of 2810511
- 954983 words of memory out of 3000000
+ 378857 string characters out of 2810511
+ 956124 words of memory out of 3000000
  40742 multiletter control sequences out of 15000+600000
  473803 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 643644 bytes).
+Output written on myReport.xdv (42 pages, 643976 bytes).
