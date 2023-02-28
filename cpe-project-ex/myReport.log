@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 14:27
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 14:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1529,15 +1529,15 @@ Overfull \hbox (17.03096pt too wide) detected at line 123
 
 File: pic/acc_note.png Graphic file (type bmp)
 <pic/acc_note.png>
+[22]
 File: pic/acc_all.png Graphic file (type bmp)
 <pic/acc_all.png>
-[22]
 File: pic/Time_1.png Graphic file (type bmp)
 <pic/Time_1.png>
  [23]
 File: pic/test_graph.png Graphic file (type bmp)
 <pic/test_graph.png>
-) [24]
+ [24]) [25]
 \openout2 = `chapters/conclusion.aux'.
 
  (chapters/conclusion.tex
@@ -1552,7 +1552,7 @@ Overfull \hbox (0.13078pt too wide) in paragraph at lines 20--21
 []\TU/Laksaman(0)/m/n/12 ใน ขั้น ตอน การ กด ปุ่ม กด ตัวเลข เพื่อ ยืนยัน ตัว ตน เมื่อ ผู้ ใช้ กด ปุ่ม ค้าง จะ ทำให้ เลข ยืนยัน ตัว ตน จะ ผิด พลาด
  []
 
-[25
+[26
 
 
 
@@ -1562,7 +1562,7 @@ Overfull \hbox (0.18709pt too wide) in paragraph at lines 39--40
 []\TU/Laksaman(0)/m/n/12 ควร สำรวจ พื้นที่ ติด ตั้ง มอ ดู ล กล้อง เนื่องจาก ต้อง พิจารณา สภาพ แสง ของ พื้นที่ ติด ตั้ง เพื่อ พัฒนาการ ปรับ
  []
 
-) [26] (myReport.bbl
+) [27] (myReport.bbl
 LaTeX Font Info:    Font shape `TU/TlwgTypist(0)/m/n' will be
 (Font)              scaled to size 12.40283pt on input line 15.
 LaTeX Font Info:    Font shape `TU/Inconsolata(0)/m/n' will be
@@ -1602,7 +1602,7 @@ Underfull \hbox (badness 7047) in paragraph at lines 95--103
 \TU/Inconsolata(0)/m/n/12 en.wikipedia.org/ w/ index.php? title=Raspberry_Pi&oldid=1126331603$$[][][][]\TU/TeXGyreTermes(0)/m/n/12 , []\TU/Laksaman(0)/m/n/12 ธัน-
  []
 
-) [27
+) [28
 
 
 
@@ -1612,7 +1612,7 @@ LaTeX Font Info:    Font shape `TU/Laksaman(0)/m/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
 LaTeX Font Info:    Font shape `TU/Laksaman(0)/b/n' will be
 (Font)              scaled to size 20.98491pt on input line 88.
- [28
+ [29
 
 ]
 \openout2 = `chapters/appendix.aux'.
@@ -1629,7 +1629,7 @@ Overfull \hbox (12.32167pt too wide) in paragraph at lines 50--51
 []\TU/Laksaman(0)/m/n/12 พิมพ์ คำ สั่ง []\TU/TeXGyreTermes(0)/m/n/12 sudo [][]git [][]clone [][]$$[][]\TU/Inconsolata(0)/m/n/12 https:// github.com/ freedomwebtech/ raspbianlegacy.git$$[][] 
  []
 
-[29
+[30
 
 
 
@@ -1638,7 +1638,7 @@ Overfull \hbox (1.72578pt too wide) in paragraph at lines 75--76
 []\TU/Laksaman(0)/m/n/12 ไป ยัง เว็บไซต์ [][]$$[]\TU/Inconsolata(0)/m/n/12 https:// www.python.org/ downloads/$$[][] []\TU/Laksaman(0)/m/n/12 เพื่อ ดาวน์โหลด ตัว []\TU/TeXGyreTermes(0)/m/n/12 setup []\TU/Laksaman(0)/m/n/12 ของ []\TU/TeXGyreTermes(0)/m/n/12 Python 
  []
 
-[30]
+[31]
 File: pic/main_page.png Graphic file (type bmp)
 <pic/main_page.png>
 
@@ -1648,11 +1648,11 @@ Overfull \hbox (21.97665pt too wide) in paragraph at lines 126--127
 
 File: pic/server_start.png Graphic file (type bmp)
 <pic/server_start.png>
-[31] [32]
+[32] [33]
 ภาคผนวก ข.
 File: pic/PDPA.png Graphic file (type bmp)
 <pic/PDPA.png>
-) [33
+) [34
 
 ]
 Vita
@@ -1663,7 +1663,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
 
  []
 
-[34
+[35
 
 
 
@@ -1761,15 +1761,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: A0B56C42E88CD7C455F18948A51E3F88;19751.
+(rerunfilecheck)             Checksum: 006BDA28C42EB4EDF580CE68AE72E457;20784.
  ) 
 Here is how much of TeX's memory you used:
- 19870 strings out of 410432
- 378857 string characters out of 2810511
- 956124 words of memory out of 3000000
- 40742 multiletter control sequences out of 15000+600000
+ 19871 strings out of 410432
+ 378870 string characters out of 2810511
+ 956178 words of memory out of 3000000
+ 40743 multiletter control sequences out of 15000+600000
  473803 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,708b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (42 pages, 643976 bytes).
+Output written on myReport.xdv (43 pages, 649664 bytes).

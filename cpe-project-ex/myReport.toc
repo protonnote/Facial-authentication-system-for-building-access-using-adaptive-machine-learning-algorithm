@@ -51,26 +51,28 @@
 \contentsline {subsection}{\numberline {4.1.2}รูปภาพการแสดงผลบนหน้าจอ}{20}{subsection.4.1.2}%
 \contentsline {section}{\numberline {4.2}ความแม่นยำของการตรวจจับใบหน้า}{21}{section.4.2}%
 \contentsline {section}{\numberline {4.3}ความแม่นยำของการระบุตัวตนด้วยใบหน้าในแต่ละวัน}{22}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}ความแม่นยําของการระบุตัวตนด้วยใบหน้าในแต่ละวันของ 1 บุคคล}{22}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}ความแม่นยําของการระบุตัวตนด้วยใบหน้าในแต่ละวันของแบบจำลอง}{23}{subsection.4.3.2}%
 \contentsline {section}{\numberline {4.4}เวลาในการประมวลผลรูปภาพใบหน้า}{23}{section.4.4}%
 \contentsline {section}{\numberline {4.5}ความพึงพอใจของการทดลอง}{24}{section.4.5}%
-\contentsline {chapter}{\numberline {5}บทสรุปและข้อเสนอแนะ}{25}{chapter.5}%
-\contentsline {section}{\numberline {5.1}สรุปผล}{25}{section.5.1}%
-\contentsline {section}{\numberline {5.2}ปัญหาที่พบและแนวทางการแก้ไข}{25}{section.5.2}%
-\contentsline {section}{\numberline {5.3}ข้อเสนอแนะและแนวทางการพัฒนาต่อ }{25}{section.5.3}%
-\contentsline {chapter}{บรรณานุกรม}{27}{section*.6}%
-\contentsline {chapter}{\numberline {ก}คู่มือการใช้งานระบบ}{29}{appendix.A}%
-\contentsline {section}{\numberline {ก.1}คู่มือการติดตั้งโปรแกรมเพื่อตรวจจับใบหน้าบน Raspberry Pi}{29}{section.A.1}%
-\contentsline {subsection}{\numberline {ก.1.1}คู่มือการติดตั้ง OpenCV บน Raspberry Pi}{29}{subsection.A.1.1}%
-\contentsline {subsection}{\numberline {ก.1.2}คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}{29}{subsection.A.1.2}%
-\contentsline {subsection}{\numberline {ก.1.3}คู่มือการติดตั้ง Mediapipe library บน Raspberry Pi}{29}{subsection.A.1.3}%
-\contentsline {subsection}{\numberline {ก.1.4}คู่มือการติดตั้ง Tkinter library บน Raspberry Pi}{30}{subsection.A.1.4}%
-\contentsline {section}{\numberline {ก.2}คู่มือการติดตั้งโปรแกรมเพื่อระบุตัวตนใบหน้าบน Server}{30}{section.A.2}%
-\contentsline {subsection}{\numberline {ก.2.1}คู่มือการติดตั้ง Python บน Windows}{30}{subsection.A.2.1}%
-\contentsline {subsection}{\numberline {ก.2.2}คู่มือการติดตั้ง Flask framework}{30}{subsection.A.2.2}%
-\contentsline {subsection}{\numberline {ก.2.3}คู่มือการติดตั้ง OpenCV บน Windows}{30}{subsection.A.2.3}%
-\contentsline {subsection}{\numberline {ก.2.4}คู่มือการติดตั้ง Scikit learn บน Windows}{30}{subsection.A.2.4}%
-\contentsline {section}{\numberline {ก.3}คู่มือการใช้งานการตรวจจับใบหน้า}{31}{section.A.3}%
-\contentsline {section}{\numberline {ก.4}คู่มือการใช้งานการระบุตัวตนด้วยใบหน้า}{31}{section.A.4}%
-\contentsline {chapter}{\numberline {ข}เอกสารเกี่ยวกับข้อมูลส่วนบุคคล}{33}{appendix.B}%
-\contentsline {section}{\numberline {ข.1}หนังสือขอความยินยอม เก็บรวบรวม ใช้ และเปิดเผยข้อมูลส่วนบุคคล}{33}{section.B.1}%
-\contentsline {chapter}{ประวัติผู้เขียน}{34}{appendix*.8}%
+\contentsline {chapter}{\numberline {5}บทสรุปและข้อเสนอแนะ}{26}{chapter.5}%
+\contentsline {section}{\numberline {5.1}สรุปผล}{26}{section.5.1}%
+\contentsline {section}{\numberline {5.2}ปัญหาที่พบและแนวทางการแก้ไข}{26}{section.5.2}%
+\contentsline {section}{\numberline {5.3}ข้อเสนอแนะและแนวทางการพัฒนาต่อ }{26}{section.5.3}%
+\contentsline {chapter}{บรรณานุกรม}{28}{section*.6}%
+\contentsline {chapter}{\numberline {ก}คู่มือการใช้งานระบบ}{30}{appendix.A}%
+\contentsline {section}{\numberline {ก.1}คู่มือการติดตั้งโปรแกรมเพื่อตรวจจับใบหน้าบน Raspberry Pi}{30}{section.A.1}%
+\contentsline {subsection}{\numberline {ก.1.1}คู่มือการติดตั้ง OpenCV บน Raspberry Pi}{30}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {ก.1.2}คู่มือการติดตั้ง TensorFlow lite บน Raspberry Pi}{30}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {ก.1.3}คู่มือการติดตั้ง Mediapipe library บน Raspberry Pi}{30}{subsection.A.1.3}%
+\contentsline {subsection}{\numberline {ก.1.4}คู่มือการติดตั้ง Tkinter library บน Raspberry Pi}{31}{subsection.A.1.4}%
+\contentsline {section}{\numberline {ก.2}คู่มือการติดตั้งโปรแกรมเพื่อระบุตัวตนใบหน้าบน Server}{31}{section.A.2}%
+\contentsline {subsection}{\numberline {ก.2.1}คู่มือการติดตั้ง Python บน Windows}{31}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {ก.2.2}คู่มือการติดตั้ง Flask framework}{31}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {ก.2.3}คู่มือการติดตั้ง OpenCV บน Windows}{31}{subsection.A.2.3}%
+\contentsline {subsection}{\numberline {ก.2.4}คู่มือการติดตั้ง Scikit learn บน Windows}{31}{subsection.A.2.4}%
+\contentsline {section}{\numberline {ก.3}คู่มือการใช้งานการตรวจจับใบหน้า}{32}{section.A.3}%
+\contentsline {section}{\numberline {ก.4}คู่มือการใช้งานการระบุตัวตนด้วยใบหน้า}{32}{section.A.4}%
+\contentsline {chapter}{\numberline {ข}เอกสารเกี่ยวกับข้อมูลส่วนบุคคล}{34}{appendix.B}%
+\contentsline {section}{\numberline {ข.1}หนังสือขอความยินยอม เก็บรวบรวม ใช้ และเปิดเผยข้อมูลส่วนบุคคล}{34}{section.B.1}%
+\contentsline {chapter}{ประวัติผู้เขียน}{35}{appendix*.8}%
