@@ -46,7 +46,7 @@
 \contentsline {subsection}{\numberline {3.2.3}การตรวจสอบรหัสยืนยันตัวตน}{16}{subsection.3.2.3}%
 \contentsline {section}{\numberline {3.3}การเรียนรู้รูปภาพ}{17}{section.3.3}%
 \contentsline {chapter}{\numberline {4}การทดลองและผลลัพธ์}{18}{chapter.4}%
-\contentsline {section}{\numberline {4.1}การออกแบบอุปกรณ์ตรวจจับภาพใบหน้าบุคคล และหน้า GUI}{18}{section.4.1}%
+\contentsline {section}{\numberline {4.1}การออกแบบอุปกรณ์ตรวจจับภาพใบหน้าบุคคล และหน้าแสดงผลทางหน้าจอ (GUI)}{18}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}รูปอุปกรณ์ที่ใช้ในการตรวจจับภาพใบหน้าและรับคำสั่งยืนยัน}{18}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {4.1.2}รูปภาพการแสดงผลบนหน้าจอ}{20}{subsection.4.1.2}%
 \contentsline {section}{\numberline {4.2}ความแม่นยำของการตรวจจับใบหน้า}{21}{section.4.2}%
@@ -58,7 +58,7 @@
 \contentsline {chapter}{\numberline {5}บทสรุปและข้อเสนอแนะ}{26}{chapter.5}%
 \contentsline {section}{\numberline {5.1}สรุปผล}{26}{section.5.1}%
 \contentsline {section}{\numberline {5.2}ปัญหาที่พบและแนวทางการแก้ไข}{26}{section.5.2}%
-\contentsline {section}{\numberline {5.3}ข้อเสนอแนะและแนวทางการพัฒนาต่อ }{26}{section.5.3}%
+\contentsline {section}{\numberline {5.3}ข้อเสนอแนะและแนวทางการพัฒนาต่อ }{27}{section.5.3}%
 \contentsline {chapter}{บรรณานุกรม}{28}{section*.6}%
 \contentsline {chapter}{\numberline {ก}คู่มือการใช้งานระบบ}{30}{appendix.A}%
 \contentsline {section}{\numberline {ก.1}คู่มือการติดตั้งโปรแกรมเพื่อตรวจจับใบหน้าบน Raspberry Pi}{30}{section.A.1}%

@@ -13,14 +13,20 @@
 % \enskip ภาควิชาวิศวกรรมคอมพิวเตอร์จึงได้จัดทำต้นแบบรูปเล่มรายงานโดยใช้ระบบจัดเตรียมเอกสาร
 % \LaTeX{} เพื่อช่วยให้นักศึกษาเขียนรายงานได้อย่างสะดวกและรวดเร็วมากยิ่งขึ้น
 
-การระบุตัวตนด้วยการใช้รูปภาพใบหน้าบุคคลเพื่อเข้าสู่สถานที่เป็นหนึ่งในรูปแบบการยืนยันตัวตนที่ช่วยลดการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา (COVID-19)
-การใช้รูปภาพใบหน้าบุคคลนั้นยังมีจุดอ่อนเมื่อใบหน้าบุคคลมีการเปลี่ยนแปลง เช่น ผมยาวขึ้น สวมแว่นตา หรือต้องใส้หน้ากาก เป็นต้น จึงมีการใช้กลวิธีการเรียนรู้แบบต่อเนื่อง เพื่อนำรูปภาพใบหน้าใหม่ไปทำการเรียนรู้ 
-ซึ่งก็คือ 
+การระบุตัวตนด้วยการใช้รูปภาพใบหน้าบุคคลเพื่อเข้าสู่สถานที่เป็นหนึ่งในรูปแบบการยืนยันตัวตนที่ช่วยลดการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา (COVID-19) โดยปัญหาหลักของการระบุตัวตนด้วยการใช้รูปภาพใบหน้าบุคคลคือการเปลี่ยนแปลงของใบหน้า 
+เช่น ผมยาวขึ้น สวมแว่นตา สวมหน้ากากอนามัย และสวมหมวก เนื่องจากความแม่นยำในการระบุตัวตนจะต่ำเมื่อใบหน้าบุคคลมีการเปลี่ยนแปลง ทางเข้าสถานที่มีพื้นที่จำกัด และในสถานการณ์ปัจจุบันที่ราคาของอุปกรณ์อิเล็กทรอนิกส์มีราคาที่สูงขึ้น 
+จึงได้ออกแบบมอดูลกล้องให้มีขนาดเล็ก ซึ่งประกอบไปด้วย กล้องเว็บแคม แผงแป้นพิเศษแบบตาราง ปุ่มกด และเลือกใช้ Raspberry Pi เป็นหน่วยประมวลผลกลางในมอดูลกล้อง แต่ประสิทธิภาพของ Raspberry Pi ไม่เพียงพอต่อการระบุตัวตนของรูปภาพใบหน้าบุคคล 
+หรือ เรียนรู้รูปภาพใบหน้าบุคคล ดังนั้น Raspberry Pi จึงทำหน้าที่ตรวจจับใบหน้าบุคคล ส่งรูปภาพใบหน้าไปยังเซิร์ฟเวอร์ แสดงผลการระบุตัวตน และรับรหัสการยืนยันตัวตน หรือ ปุ่มกดยืนยันตัวตน และใช้เซิร์ฟเวอร์ในการระบุตัวตนด้วยรูปภาพใบหน้าบุคคล 
+นำรูปภาพใบหน้าบุคคลที่ได้รับมาจากมอดูลกล้องในแต่ละครั้งทำการเรียนรู้รูปภาพใบหน้าบุคคลเป็นแบบจำลองรูปภาพใบหน้าบุคคลเพื่อปรับให้แบบจำลองรูปภาพใบหน้าบุคคลรองรับรูปภาพใบหน้าใหม่ของบุคคล และจัดเก็บรูปภาพใบหน้าบุคคล
+โดยผลลัพธ์ของการระบุตัวตนมีแนวโน้วที่สูงขึ้น เวลาในการประมวลผลรูปภาพใบหน้าบุคคลตลอดถึงการแสดงผลอยู่ในระดับที่ผู้ใช้งานรับได้ และมอดูลกล้องมีขนาดเล็กสามารถติดตั้งที่ทางเข้าอาคาร
 
-เพื่อลดจุดอ่อนของการใช้รูปภาพใบหน้าบุคคล โดยได้พัฒนาระบบและทำการทดลองที่ทางเข้าสถานที่นั้นมีพื้นที่ในการติดตั้งน้อยในโครงงานนี้จึงเลือกใช้ Raspberry Pi และในโปรเจกต์นี้ได้ทำการติดตั้งที่ทางเข้าห้องแลป OASYS 
-เนื่องจาก Raspberry Pi นั้นมีประสิทธิภาพไม่เพียงพอต่อการระบุตัวตน หรือ การเรียนรูปรูปภาพใบหน้าบุคคล ในโปรเจกต์นี้จึงใช้ Raspberry Pi ทำหน้าที่ตรวจจับใบหน้า และใช้เซิร์ฟเวอร์ในการระบุตัวตน 
-และเรียนรู้รูปภาพใบหน้าบุคคล โดยแบบจำลองการตรวจจับใบหน้าบน Raspberry Pi นั้นสามารถที่จะตรวจจับใบหน้าบุคคลได้ดี ซึ่งเวลาเฉลี่ยในการแสดงผลการระบุตัวตนหลังจากการตรวจจับใบหน้านั้นน้อยกว่า 500 มิลลิวินาที 
-และยังมีการยืนยันตัวตนด้วยรหัสอีกขึ้นตอนเพื่อลดความผิดพลาดในการระบุตัวตน ทำให้ผู้ใช้งานยังได้รับความสะดวก ปลอดภัยจากโรคติดเชื้อไวรัสโคโรนา (COVID-19) จากการใช้งาน และยังมีความแม่นยำ
+
+% จึงมีการใช้กลวิธีการเรียนรู้แบบต่อเนื่อง เพื่อนำรูปภาพใบหน้าใหม่ไปทำการเรียนรู้ 
+% ซึ่งก็คือ 
+% เพื่อลดจุดอ่อนของการใช้รูปภาพใบหน้าบุคคล โดยได้พัฒนาระบบและทำการทดลองที่ทางเข้าสถานที่นั้นมีพื้นที่ในการติดตั้งน้อยในโครงงานนี้จึงเลือกใช้ Raspberry Pi และในโปรเจกต์นี้ได้ทำการติดตั้งที่ทางเข้าห้องแลป OASYS 
+% เนื่องจาก Raspberry Pi นั้นมีประสิทธิภาพไม่เพียงพอต่อการระบุตัวตน หรือ การเรียนรูปรูปภาพใบหน้าบุคคล ในโปรเจกต์นี้จึงใช้ Raspberry Pi ทำหน้าที่ตรวจจับใบหน้า และใช้เซิร์ฟเวอร์ในการระบุตัวตน 
+% และเรียนรู้รูปภาพใบหน้าบุคคล โดยแบบจำลองการตรวจจับใบหน้าบน Raspberry Pi นั้นสามารถที่จะตรวจจับใบหน้าบุคคลได้ดี ซึ่งเวลาเฉลี่ยในการแสดงผลการระบุตัวตนหลังจากการตรวจจับใบหน้านั้นน้อยกว่า 500 มิลลิวินาที 
+% และยังมีการยืนยันตัวตนด้วยรหัสอีกขึ้นตอนเพื่อลดความผิดพลาดในการระบุตัวตน ทำให้ผู้ใช้งานยังได้รับความสะดวก ปลอดภัยจากโรคติดเชื้อไวรัสโคโรนา (COVID-19) จากการใช้งาน และยังมีความแม่นยำ
 
 \end{abstractTH}
 
@@ -31,16 +37,31 @@
 
 % Make sure your abstract sits inside the \texttt{abstract} environment.
 
-Facial recognition technology is one form of identity verification that can help reduce the spread of COVID-19 by allowing individuals to 
-access buildings without the need for physical contact. However, using facial images has its weaknesses when a person's face changes, 
-such as by growing a beard or wearing glasses. To improve the accuracy of new facial images, adaptive machine learning algorithms are employed.
 
-Due to limited space, this project utilized Raspberry Pi, which was installed at the entrance of the OASYS lab. 
-Although Raspberry Pi's performance is insufficient for facial recognition and learning images, 
-it was used to detect faces while a server was used for recognizing and training facial models. 
-The facial detection model on the Raspberry Pi works well and takes less than 500 milliseconds on average to 
-verify identity after detecting a face. Additionally, to reduce the likelihood of identity errors, there is a pin code 
-confirmation process that makes it convenient and safe for users to use and helps prevent the spread of COVID-19.
+Facial recognition using images of individuals is one of the forms of identity verification that helps reduce the spread of the coronavirus (COVID-19). 
+The main problem with identifying individuals using facial images is the changes that occur on the face, such as when someone grows a beard, wears glasses, 
+puts on a mask, or wears a hat. The accuracy of facial recognition decreases when facial features change. The entry way has a small space, 
+and in the current situation where electronic equipment prices are high, a small-sized camera module has been designed. It includes a webcam, a special keyboard, buttons, 
+and a Raspberry Pi used as a central processing unit. However, the performance of the Raspberry Pi is not sufficient for facial recognition of individuals or 
+learning facial images. Therefore, the Raspberry Pi is responsible for detecting facial images, sending them to the server for recognition, 
+receiving confirmation codes or buttons, and using the server to recognize facial images. Facial images from the camera module are learned each time, 
+using a facial image model to adjust the model to support new facial images of individuals and store them. As a result, 
+the accuracy of identity verification has improved, the processing time for facial images is at an acceptable level for users, 
+and the camera module is small in size and can be used at entryways.
+
+
+
+
+% Facial recognition technology is one form of identity verification that can help reduce the spread of COVID-19 by allowing individuals to 
+% access buildings without the need for physical contact. However, using facial images has its weaknesses when a person's face changes, 
+% such as by growing a beard or wearing glasses. To improve the accuracy of new facial images, adaptive machine learning algorithms are employed.
+
+% Due to limited space, this project utilized Raspberry Pi, which was installed at the entrance of the OASYS lab. 
+% Although Raspberry Pi's performance is insufficient for facial recognition and learning images, 
+% it was used to detect faces while a server was used for recognizing and training facial models. 
+% The facial detection model on the Raspberry Pi works well and takes less than 500 milliseconds on average to 
+% verify identity after detecting a face. Additionally, to reduce the likelihood of identity errors, there is a pin code 
+% confirmation process that makes it convenient and safe for users to use and helps prevent the spread of COVID-19.
 
 
 \end{abstract}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  28 FEB 2023 14:35
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  1 MAR 2023 22:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1160,6 +1160,11 @@ LaTeX Font Info:    Font shape `TU/TeXGyreTermesMath(3)/m/n' will be
 
 ]
 Abstract
+
+Overfull \hbox (1.57297pt too wide) in paragraph at lines 16--22
+\TU/Laksaman(0)/m/n/12 ที่ ได้ รับ มา จาก มอ ดู ล กล้อง ใน แต่ละ ครั้ง ทำการ เรียน รู้ รูปภาพ ใบหน้า บุคคล เป็น แบบ จำลอง รูปภาพ ใบหน้า บุคคล
+ []
+
 [2
 
 ]
@@ -1543,12 +1548,17 @@ File: pic/test_graph.png Graphic file (type bmp)
  (chapters/conclusion.tex
 บทที่ 5.
 
-Overfull \hbox (5.91298pt too wide) in paragraph at lines 15--17
+Overfull \hbox (1.22704pt too wide) in paragraph at lines 5--10
+\TU/Laksaman(0)/m/n/12 เซ็นต์ ผลลัพธ์ การ ระบุ ตัว ตน ของ แบบ จำลอง ใบหน้า บุคคล []\TU/TeXGyreTermes(0)/m/n/12 1 []\TU/Laksaman(0)/m/n/12 บุคคล จาก ทั้งหมด ใน แต่ละ วัน มี แนว โน้ม ของ ความ
+ []
+
+
+Overfull \hbox (5.91298pt too wide) in paragraph at lines 18--20
 \TU/Laksaman(0)/m/n/12 บุคคล จะ ทำให้ รูปภาพ ใบหน้า บุคคล ไม่ ชัด ส่ง ผล ให้ ผลลัพธ์ ของ รูปภาพ ที่ ส่ง ไป ระบุ ตัว ตน มี ความ ผิด พลาด
  []
 
 
-Overfull \hbox (0.13078pt too wide) in paragraph at lines 20--21
+Overfull \hbox (0.13078pt too wide) in paragraph at lines 23--24
 []\TU/Laksaman(0)/m/n/12 ใน ขั้น ตอน การ กด ปุ่ม กด ตัวเลข เพื่อ ยืนยัน ตัว ตน เมื่อ ผู้ ใช้ กด ปุ่ม ค้าง จะ ทำให้ เลข ยืนยัน ตัว ตน จะ ผิด พลาด
  []
 
@@ -1558,7 +1568,7 @@ Overfull \hbox (0.13078pt too wide) in paragraph at lines 20--21
 
 
 ]
-Overfull \hbox (0.18709pt too wide) in paragraph at lines 39--40
+Overfull \hbox (0.18709pt too wide) in paragraph at lines 42--43
 []\TU/Laksaman(0)/m/n/12 ควร สำรวจ พื้นที่ ติด ตั้ง มอ ดู ล กล้อง เนื่องจาก ต้อง พิจารณา สภาพ แสง ของ พื้นที่ ติด ตั้ง เพื่อ พัฒนาการ ปรับ
  []
 
@@ -1761,15 +1771,15 @@ The property list \__xpg_alias contains the pairs (without outer braces):
 \thai@year=\count325
  (chapters/intro.aux) (chapters/background.aux) (chapters/approach.aux) (chapters/eval.aux) (chapters/conclusion.aux) (chapters/appendix.aux))
 Package rerunfilecheck Info: File `myReport.out' has not changed.
-(rerunfilecheck)             Checksum: 006BDA28C42EB4EDF580CE68AE72E457;20784.
+(rerunfilecheck)             Checksum: 952D04B4AAC4C71634D8DBCED5F24255;20920.
  ) 
 Here is how much of TeX's memory you used:
  19871 strings out of 410432
  378870 string characters out of 2810511
- 956178 words of memory out of 3000000
+ 956314 words of memory out of 3000000
  40743 multiletter control sequences out of 15000+600000
  473803 words of font info for 121 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,17n,150p,708b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 102i,17n,150p,741b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 649664 bytes).
+Output written on myReport.xdv (43 pages, 665472 bytes).
