@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  1 MAR 2023 22:59
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.11.25) (preloaded format=xelatex 2022.11.26)  3 MAR 2023 19:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1195,13 +1195,13 @@ LaTeX Font Info:    Font shape `TU/TeXGyreTermes(0)/b/n' will be
  (chapters/intro.tex
 บทที่ 1.
 
-Overfull \hbox (6.62354pt too wide) in paragraph at lines 25--28
-\TU/Laksaman(0)/m/n/12 โดย ระบบ ตรวจ จับ ใบหน้า จะ ทำการ ติด ตั้ง หน้า ทาง เข้า ห้อง กลุ่ม วิจัย ทฤษฎี และ การ ประยุกต์ ใช้ การ หา ค่าที่ เหมาะ
+Overfull \hbox (4.70575pt too wide) in paragraph at lines 13--18
+\TU/Laksaman(0)/m/n/12 ตรวจ จับ ใบหน้า ที่ ได้ ออกแบบ นั้น สามารถ ที่ จะ แยกแยะ ใบหน้า มนุษย์ ได้ ทั้ง การ ใส่ หน้ากาก อนามัย หรือ ไม่ ใส่ และ
  []
 
 
-Overfull \hbox (12.77213pt too wide) in paragraph at lines 34--35
-[]\TU/Laksaman(0)/m/n/12 โปรแกรม การ เรียน รู้ ของ เครื่อง ที่ ไม่ เกิน กํา ลัง ด้าน ฮาร์ดแวร์ ของ เซิร์ฟเวอร์ ที่ ใช้ เรียน รู้ แบบ จำลอง []\TU/TeXGyreTermes(0)/m/n/12 (model) 
+Overfull \hbox (6.62354pt too wide) in paragraph at lines 27--30
+\TU/Laksaman(0)/m/n/12 โดย ระบบ ตรวจ จับ ใบหน้า จะ ทำการ ติด ตั้ง หน้า ทาง เข้า ห้อง กลุ่ม วิจัย ทฤษฎี และ การ ประยุกต์ ใช้ การ หา ค่าที่ เหมาะ
  []
 
 [1
@@ -1211,163 +1211,168 @@ Overfull \hbox (12.77213pt too wide) in paragraph at lines 34--35
 
 
 
-] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+]
+Overfull \hbox (12.77213pt too wide) in paragraph at lines 36--37
+[]\TU/Laksaman(0)/m/n/12 โปรแกรม การ เรียน รู้ ของ เครื่อง ที่ ไม่ เกิน กํา ลัง ด้าน ฮาร์ดแวร์ ของ เซิร์ฟเวอร์ ที่ ใช้ เรียน รู้ แบบ จำลอง []\TU/TeXGyreTermes(0)/m/n/12 (model) 
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/Laksaman(0)/b/n/12 ขั้น ตอน การ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/Laksaman(0)/m/n/12 ศึกษา และ การ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ตรวจ จับ ใบหน้า
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 และ การ ทำงาน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 การ ส่ง รูปภาพ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ผ่าน []\TU/TeXGyreTermes(0)/m/n/12 RESTful
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 [][]\TU/TeXGyreTermes(0)/m/n/12 Flask [][]frame-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 การ ทำงาน ของ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []\TU/TeXGyreTermes(0)/m/n/12 DNN []\TU/Laksaman(0)/m/n/12 และ การ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 เรียน รู้ ภาพ ใบหน้า
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/Laksaman(0)/m/n/12 เก็บ ข้อมูล รูปภาพ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ใบหน้า ผู้ ใช้ งาน
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []\TU/Laksaman(0)/m/n/12 และ ออกแบบ ให้
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ระบบ สามารถ
  []
 
 
-Underfull \hbox (badness 7631) in paragraph at lines 87--87
+Underfull \hbox (badness 7631) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ตรวจ จับ ใบหน้า ได้
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 87--87
+Underfull \hbox (badness 3098) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ดี ขึ้น และ ส่ง ภาพ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ระบบ และ ออก-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 แบบ และ พัฒนา
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 โมเดล การ เรียน รู้
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ภาพ ใบหน้า บุคคล
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/Laksaman(0)/m/n/12 ออกแบบ และ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 พัฒนา []\TU/TeXGyreTermes(0)/m/n/12 GUI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []\TU/Laksaman(0)/m/n/12 ตอบ รับ ผลลัพธ์
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ส่ง ผลลัพธ์ ไป ยัง
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 เซิร์ฟเวอร์ และ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 เซิร์ฟเวอร์ จัดการ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 กับ ผลลัพธ์ ที่ ได้ รับ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/Laksaman(0)/m/n/12 ทดสอบ ทั้ง ระบบ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ปรับปรุง ระบบ
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 และ ปรับ แต่ง
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 87--87
+Underfull \hbox (badness 2134) in paragraph at lines 89--89
 \TU/Laksaman(0)/m/n/12 ระบบ ให้ มี ประสิท-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/Laksaman(0)/m/n/12 เขียน รายงาน สรุป
  []
 
@@ -1488,7 +1493,7 @@ File: pic/pin_incorrect.png Graphic file (type bmp)
  (chapters/eval.tex
 บทที่ 4.
 
-Overfull \hbox (0.87216pt too wide) in paragraph at lines 8--11
+Overfull \hbox (0.87216pt too wide) in paragraph at lines 8--12
 \TU/Laksaman(0)/m/n/12 ใน บท นี้ จะ ทดสอบ ระบบ การ ยืนยัน ตัว ตน ด้วย การ ใช้ ภาพ ใบหน้า บุคคล ซึ่ง มี การ เก็บ ข้อมูล รูปภาพ ใบหน้า บุคคล
  []
 
@@ -1521,14 +1526,14 @@ File: pic/pin_correct.png Graphic file (type bmp)
 File: pic/pin_incorrect.png Graphic file (type bmp)
 <pic/pin_incorrect.png>
  [20]
-Overfull \hbox (2.45395pt too wide) in paragraph at lines 101--103
+Overfull \hbox (2.45395pt too wide) in paragraph at lines 102--104
 \TU/Laksaman(0)/m/n/12 การ ทดสอบ นี้ จะ เป็นการ ทดสอบ เพื่อ วัดผล ความ แม่นยำ ใน การ ตรวจ จับ ภาพ ใบหน้า บุคคล โดย มี รูปภาพ ใบหน้า
  []
 
 File: pic/face_result.png Graphic file (type bmp)
 <pic/face_result.png>
 [21]
-Overfull \hbox (17.03096pt too wide) detected at line 123
+Overfull \hbox (17.03096pt too wide) detected at line 124
 [][][][][][][][][][] [] [] [] [] [] [][][][][][]
  []
 
@@ -1782,4 +1787,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  102i,17n,150p,741b,574s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on myReport.xdv (43 pages, 665472 bytes).
+Output written on myReport.xdv (43 pages, 667464 bytes).
