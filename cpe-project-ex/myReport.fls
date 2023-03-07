@@ -1033,6 +1033,9 @@ INPUT pic\pin_correct.png
 INPUT .\pic\pin_incorrect.png
 INPUT .\pic\pin_incorrect.png
 INPUT pic\pin_incorrect.png
+INPUT .\pic\openface.jpg
+INPUT .\pic\openface.jpg
+INPUT pic\openface.jpg
 INPUT .\chapters\eval.tex
 INPUT .\chapters\eval.tex
 INPUT .\chapters\eval.tex
