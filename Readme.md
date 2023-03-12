@@ -29,7 +29,10 @@
     1. Open Termenal
     2. Use command : `` sudo apt update ``
     3. Use command : `` sudo pip3 install mediapipe-rpi4 `` and wait untill success.
-
+- **TKinter on Raspberry Pi**
+    1. Open Termenal
+    2. Use command : `` sudo apt update ``
+    3. Use command : `` sudo pip3 install tk `` and wait untill success.
 # Usage
 after use `` git clone `` this repository
 1. Open Terminal
