@@ -19,8 +19,7 @@
 
 - **TensorFlow lite on Raspberry Pi**
     1. Open Termenal
-    2. Use command : ``
-    sudo git clone https://github.com/freedomwebtech/raspbianlegacy.git ``
+    2. Use command : ``sudo git clone https://github.com/freedomwebtech/raspbianlegacy.git ``
     3. Use command : `` cd raspbianlegacy ``
     4. Use command : `` sudo chmod 775 tensorflow-lite.sh ``
     5. Use command : `` sudo ./tensorflow-lite.sh `` and wait untill success.
