@@ -31,7 +31,7 @@
     3. Use command : `` sudo pip3 install mediapipe-rpi4 `` and wait untill success.
 
 # Usage
-after use `` git clone `` this repositiry
+after use `` git clone `` this repository
 1. Open Terminal
 2. Use command : `` cd Front-end ``
 3. Edit url Back-end
