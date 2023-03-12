@@ -4,7 +4,6 @@
 - For Back-end repository link : [Link](https://github.com/protonnote/backend-graduate-project.git)
 
 ## Installation 
---------
 - **OpenCV on Raspberry Pi**
     1. Open Terminal
     2. Use command :``sudo git clone https://github.com/freedomwebtech/raspbianlegacy.git 
@@ -32,7 +31,6 @@
     3. Use command : `` sudo pip3 install mediapipe-rpi4 `` and wait untill success.
 
 # Usage
--------
 after use `` git clone `` this repositiry
 1. Open Terminal
 2. Use command : `` cd Front-end ``
