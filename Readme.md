@@ -17,7 +17,7 @@
     7. If install success it will show version of OpenCV eg. ``4.5.2``
 
 - **TensorFlow lite on Raspberry Pi**
-    1. Open Termenal
+    1. Open Terminal
     2. Use command : ``sudo git clone https://github.com/freedomwebtech/raspbianlegacy.git ``
     3. Use command : `` cd raspbianlegacy ``
     4. Use command : `` sudo chmod 775 tensorflow-lite.sh ``
@@ -26,7 +26,7 @@
     7. If install success it will show version of TensorFlow.
 
 - **Mediapipe library on Raspberry Pi**
-    1. Open Termenal
+    1. Open Terminal
     2. Use command : `` sudo apt update ``
     3. Use command : `` sudo pip3 install mediapipe-rpi4 `` and wait untill success.
 - **TKinter on Raspberry Pi**
