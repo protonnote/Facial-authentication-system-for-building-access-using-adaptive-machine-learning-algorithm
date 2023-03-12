@@ -36,4 +36,14 @@
 after use `` git clone `` this repositiry
 1. Open Terminal
 2. Use command : `` cd Front-end ``
-3. Use command : `` python main_ui.py ``
+3. Edit url Back-end
+```python
+import json
+from os import path
+import requests
+
+url = "http://Back-end-ip:5000/file-upload" <------- edit url
+filename = 'response.json'
+
+```
+4. Use command : `` python main_ui.py ``
