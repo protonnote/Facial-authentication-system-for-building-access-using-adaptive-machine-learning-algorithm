@@ -13,8 +13,8 @@
     4. Use command : `` sudo chmod 775 install.sh ``
     5. Use command `` sudo ./install.sh `` and wait untill success (~ 2 hours)
     6. After install complete use `` python3 `` command in Terminal and type
-    >  ``>>``import cv2 \
-    > ``>>``cv2.__version __
+    >  \>>import cv2 \
+    > \>>cv2.__version __
     7. If install success it will show version of OpenCV eg. ``4.5.2``
 
 - **TensorFlow lite on Raspberry Pi**
