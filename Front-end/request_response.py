@@ -2,7 +2,7 @@ import json
 from os import path
 import requests
 
-url = "http://10.98.6.65:5000/file-upload"
+url = "http://Back-end-ip:5000/file-upload"
 filename = 'response.json'
 
 def sendImg(sendFile):
