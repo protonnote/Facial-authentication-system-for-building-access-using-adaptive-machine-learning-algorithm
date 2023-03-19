@@ -91,57 +91,57 @@ class Main(tk.Frame):
         img.image = img
         self.label.grid(row=1,column=0,columnspan=3)
 
-
-# part perdiction
-        self.result = tk.Label(self, text= "<- Prediction ranking ->")
-        self.result.config(font = ("Courier", 18))
-        self.result.grid(row=2,column=0,columnspan=3)
-
-    # col 1 
-        rname1 = "Unknown"
-        self.RName1 = tk.Label(self, text = rname1 )
-        self.RName1.config(font = ("Courier", 15),background='green')
-        self.RName1.grid(row=3,column=0,)
-        
-        rp1 = "Unknown"
-        self.RP1 = tk.Label(self, text = rp1 )
-        self.RP1.config(font = ("Courier", 15),background='green')
-        self.RP1.grid(row=4,column=0)
-    # col 2
-        rname2 = "Unknown"
-        self.RName2 = tk.Label(self, text = rname2 )
-        self.RName2.config(font = ("Courier", 15),background='yellow')
-        self.RName2.grid(row=3,column=1)
-        
-        rp2 = "Unknown"
-        self.RP2 = tk.Label(self, text = rp2 )
-        self.RP2.config(font = ("Courier", 15),background='yellow')
-        self.RP2.grid(row=4,column=1)
-    # col 3
-        rname3 = "Unknown"
-        self.RName3 = tk.Label(self, text = rname3 )
-        self.RName3.config(font = ("Courier", 15),background='red')
-        self.RName3.grid(row=3,column=2)
-        
-        rp3 = "Unknown"
-        self.RP3 = tk.Label(self, text = rp3 )
-        self.RP3.config(font = ("Courier", 15),background='red')
-        self.RP3.grid(row=4,column=2)
-        
     # result
         self.result = tk.Label(self, text= "< Prediction result >")
         self.result.config(font = ("Courier", 18))
-        self.result.grid(row=5,column=0,columnspan=3)
+        self.result.grid(row=2,column=0,columnspan=3)
 
         name = "Unknown"
         self.Name = tk.Label(self, text = name )
         self.Name.config(font = ("Courier", 15))
-        self.Name.grid(row=6,column=0,columnspan=3)
+        self.Name.grid(row=3,column=0,columnspan=3)
         
         predict = "Unknown"
         self.Predict = tk.Label(self, text = predict )
         self.Predict.config(font = ("Courier", 15))
-        self.Predict.grid(row=7,column=0,columnspan=3)
+        self.Predict.grid(row=4,column=0,columnspan=3)
+
+    # part perdiction
+        self.result = tk.Label(self, text= "<- Prediction ranking ->")
+        self.result.config(font = ("Courier", 18))
+        self.result.grid(row=5,column=0,columnspan=3)
+
+    # col 1 
+        rname1 = "Unknown"
+        self.RName1 = tk.Label(self, text = rname1 )
+        self.RName1.config(font = ("Courier", 15))
+        self.RName1.grid(row=6,column=0,)
+        
+        rp1 = "Unknown"
+        self.RP1 = tk.Label(self, text = rp1 )
+        self.RP1.config(font = ("Courier", 15))
+        self.RP1.grid(row=7,column=0)
+    # col 2
+        rname2 = "Unknown"
+        self.RName2 = tk.Label(self, text = rname2 )
+        self.RName2.config(font = ("Courier", 15))
+        self.RName2.grid(row=6,column=1)
+        
+        rp2 = "Unknown"
+        self.RP2 = tk.Label(self, text = rp2 )
+        self.RP2.config(font = ("Courier", 15))
+        self.RP2.grid(row=7,column=1)
+    # col 3
+        rname3 = "Unknown"
+        self.RName3 = tk.Label(self, text = rname3 )
+        self.RName3.config(font = ("Courier", 15))
+        self.RName3.grid(row=6,column=2)
+        
+        rp3 = "Unknown"
+        self.RP3 = tk.Label(self, text = rp3 )
+        self.RP3.config(font = ("Courier", 15))
+        self.RP3.grid(row=7,column=2)
+        
         
         
         
@@ -163,12 +163,12 @@ class Main(tk.Frame):
         
 # part status program
         self.con1 = tk.Label(self, text= "Status : waiting for face detect...... ")
-        self.con1.config(font = ("Courier", 13))
+        self.con1.config(font = ("Courier", 17))
         self.con1.grid(row=11,column=0,columnspan=3)
 
 # part print word confrim
         self.con = tk.Label(self, text= "Please comfirm prediction result in 2 minutes. ")
-        self.con.config(font = ("Courier", 14))
+        self.con.config(font = ("Courier", 17))
         self.con.grid(row=12,column=0,columnspan=3)
 # for debug
         # button1 = tk.Button(self, text="Go to confirm page",command=lambda: controller.show_frame("ConfirmPage"))
